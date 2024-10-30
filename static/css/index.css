@@ -111,6 +111,48 @@ body {
     margin: 15px 0 30px;
 }
 
+.button{
+    display: inline-block;
+    background: #1743e3;
+    border: 2px solid #1743e3;
+    color: #eaeaea;
+
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 28px;
+    background: #1743e3;
+    border: 2px solid #1743e3;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    font-size: 16px;
+    color: #eaeaea;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: .5s;
+}
+
+.btn-green{
+    display: inline-block;
+    padding: 8px 28px;
+    background: #5c72c2;
+    border: 2px solid #8fa3ea;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    font-size: 16px;
+    color: #eaeaea;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: .5s;
+}
+.btn-green:hover {
+    background: transparent;
+    color: #1743e3;
+}
+
 .btn {
     display: inline-block;
     padding: 10px 28px;
