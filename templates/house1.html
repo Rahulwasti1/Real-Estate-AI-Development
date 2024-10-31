@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+            margin-top: 30px;
+        }
+
+        .about-section {
+            position: relative;
+            height: 400px;
+            background-image: url('background.jpg'); /* Replace with your image path */
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for text visibility */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .overlay h1 {
+            font-size: 48px;
+            /* margin-bottom: 10px; */
+            font-weight: bold;
+        }
+
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            font-size: 18px;
+        }
+
+        .breadcrumb a {
+            color: #ffa500;
+            text-decoration: none;
+        }
+
+        .breadcrumb span {
+            color: #fff;
+            margin: 0 5px;
+        }
+
+        /* Heading */
+        .property-header h1 {
+            font-size: 28px;
+            margin: 0;
+            color: #333;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .property-header p {
+            color: #666;
+            margin: 5px 0;
+            margin-bottom: 2%;
+        }
+
+        /* Image Section */
+        .main-image {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .gallery {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .gallery img {
+            width: calc(100% / 4 - 10px);
+            height: auto;
+            border-radius: 8px;
+        }
+
+        /* Description Section */
+        .section-title {
+            font-weight: bold;
+            font-size: 18px;
+            margin: 20px 0 10px;
+            color: #333;
+        }
+
+        .description, .detail, .features, .floorplan, .location {
+            margin-top: 2%;
+            background-color: #f8f8f8;
+            padding: 15px;
+            padding-top: 5px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        /* Detail Section */
+        .detail-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            font-size: 14px;
+        }
+
+        .detail-item {
+            flex: 1 1 calc(50% - 20px);
+        }
+
+        /* Features Section */
+        .features-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .feature-item {
+            background-color: #e0f0ff;
+            color: #007bff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        /* Floorplan Section */
+        .floorplan img {
+            width: 40%;
+            border-radius: 8px;
+            height: 500px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* Location Map */
+        .location iframe {
+            width: 100%;
+            height: 300px;
+            border: 0;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    {% include 'navbar.html' %}
+
+    <div class="about-section">
+        <div class="overlay">
+            <h1>House 1</h1>
+            <div class="breadcrumb">
+                <a href="{{url_for('house_listings')}}">House Listings</a> <span>&#8594;</span> <span>House 1</span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <!-- Property Header -->
+        <div class="property-header">
+            <h1> House for Sale at Soaltee mode | Bafal </h1>
+            <p> 13 Aana | 3 Bedrooms | 1 Kitchen | 3 Bathrooms | 1 Living Room | 5 Parking | 2 Total Floors </p>
+        </div>
+
+        <!-- Main Image and Gallery -->
+        <img src="static/image/House_List/House1/House1a.jpg" alt="Main Property Image" class="main-image">
+        <div class="gallery">
+            <img src="static/image/House_List/House1/House1b.jpg" alt="Gallery Image 1">
+            <img src="static/image/House_List/House1/House1c.jpg" alt="Gallery Image 2">
+            <img src="static/image/House_List/House1/House1d.jpg" alt="Gallery Image 3">
+            <img src="static/image/House_List/House1/House1f.jpg" alt="Gallery Image 4">
+        </div>
+
+        <!-- Description Section -->
+        <div class="description">
+            <div class="section-title">Description</div>
+            <p> Bafal. Total land are of this property is 13 anna and 14 anna is available on the field. We also provides home loan on this property at a very low-interest rate. </p>
+        </div>
+
+        <!-- Detail Section -->
+        <div class="detail">
+            <div class="section-title">Detail</div>
+            <div class="detail-grid">
+                <div class="detail-item"><strong>Property Type:</strong> Residential Property</div>
+                <div class="detail-item"><strong>Face:</strong> North</div>
+                <div class="detail-item"><strong>Built:</strong> 2056</div>
+                <div class="detail-item"><strong>Road Type:</strong> Blacktopped</div>
+                <div class="detail-item"><strong>City & Area:</strong> Kathmandu, Bafal</div>
+                <div class="detail-item"><strong>Negotiable:</strong> Yes</div>
+                <div class="detail-item"><strong>Furnishing:</strong> Semi Furnished</div>
+                <div class="detail-item"><strong>Purpose:</strong> Sale Property </div>
+                <div class="detail-item"><strong>Property Area:</strong> 13 Aana </div>
+                <div class="detail-item"><strong>Road Access:</strong> 16 Feet</div>
+                <div class="detail-item"><strong>Pricing:</strong> 75 Lakh Per Anna</div>
+            </div>
+        </div>
+
+        <!-- Features Section -->
+        <div class="features">
+            <div class="section-title">Facilities</div>
+            <div class="features-list">
+                <div class="feature-item"> Landmark: Hyatt Place </div>
+                <div class="feature-item"> Ward office: KMC 13 </div>
+            </div>
+        </div>
+
+        <!-- Floorplan Section -->
+        <div class="floorplan">
+            <div class="section-title">Floorplan</div>
+            <img src="static/image/House_List/House1/house1floorplan.jpg" alt="Floorplan">
+        </div>
+
+        <!-- Location Section -->
+        <div class="location">
+            <div class="section-title">Location</div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d28264.271452623227!2d85.31459044662897!3d27.685346128974547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x39eb1908ed7fbacd%3A0x49b04b284da7a96f!2sIIMS%20College%2C%20Dhobidhara%20Marg%2C%20Kathmandu!3m2!1d27.7088432!2d85.32359369999999!4m5!1s0x39eb19dfd5b2ae77%3A0x7c95fce11b2cf243!2sBafa%3A%20Khusi%20Marg%2C%20Lalitpur%2044700!3m2!1d27.661776099999997!2d85.3340882!5e0!3m2!1sen!2snp!4v1730341670733!5m2!1sen!2snp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <!-- <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.5129050193325!2d144.95802591586617!3d-37.8162797797509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d43c3ec8b07%3A0x184b721eadb0b5bd!2sTraditional%20Apartments!5e0!3m2!1sen!2sus!4v1607027515901!5m2!1sen!2sus" 
+                allowfullscreen="" 
+                aria-hidden="false" 
+                tabindex="0">
+            </iframe> -->
+        </div>
+    </div>
+
+</body>
+</html>

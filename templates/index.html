@@ -5,39 +5,37 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Website Landing Page</title>
+    <title>Real Estate</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
 <body>
-    <header class="header">
-        <a href="#" class="logo">BNB.</a>
-        <nav class="navbar">
-            <a href="#" class="active">Home</a>
-            <a href="#">About</a>
-            <a href="#">Model</a>
-            <a href="#">Tools</a>
-            <a href="#">Info</a>
-            <a href="#">Contact</a>
-        </nav>
-
-        <a href="#" class="btn-green">Get Help</a>
-
-    </header>
+<!-- Header -->
+    {% include 'navbar.html' %}
 
     <section class="home">
         <div class="home-content">
             <h1>Discover Your Dream!</h1>
             <h3>Home.</h3>
             <p>"Thinking about real estate as an investment? Explore opportunities that combine great locations, returns, and peace of mind. We’ll guide you to properties that not only fit your budget but also align with your financial goals."</p>
-            <a href="#" class="btn">Explore Houses</a>
+            <a href="{{url_for('house_listings')}}" class="btn">Explore Houses</a>
         </div>
 
         <div class="home-img">
             <img src="{{ url_for('static', filename='image/home_image.png') }}" alt="Home Image">
         </div>
     </section>
+
+    <!-- <section class="about">
+        <div class="about-content">
+            <h2> Our Listings </h2>
+
+        </div>
+    </section> -->
+
+    
+
 </body>
 
 </html>

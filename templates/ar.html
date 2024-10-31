@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test A-Frame</title>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+</head>
+<body style="margin: 0; overflow: hidden;">
+    <a-scene embedded>
+        <a-assets>
+            <img id="test-image" src="{{ url_for('static', filename='image/House_List/House1/House1c.jpg') }}">
+        </a-assets>
+        <a-sky id="sky" src="#test-image" rotation="0 -90 0"></a-sky>
+    </a-scene>
+</body>
+</html>

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> House Listings </title>
+
+    <style>
+        .about-section {
+            position: relative;
+            height: 400px;
+            background-image: url('background.jpg'); /* Replace with your image path */
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for text visibility */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .overlay h1 {
+            font-size: 48px;
+            font-weight: bold;
+        }
+
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            font-size: 18px;
+        }
+
+        .breadcrumb a {
+            color: #ffa500;
+            text-decoration: none;
+        }
+
+        .breadcrumb span {
+            color: #fff;
+            margin: 0 5px;
+        }
+
+        /* Listings container */
+        .listings-container {
+            width: 100%; /* Fixed width to 100% */
+            max-width: 1200px;
+            margin: auto;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Heading */
+        .listings-container h2 {
+            text-align: left;
+            color: #333;
+            margin-bottom: 20px;
+            margin-top: 5%;
+            height: 8%;
+        }
+
+        /* Card styling */
+        .listing-card {
+            display: flex;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: box-shadow 0.3s ease;
+        }
+
+        .listing-card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Image styling */
+        .listing-card img {
+            width: 30%;
+            object-fit: cover;
+            height: 200px;
+        }
+
+        /* Info section */
+        .listing-info {
+            padding: 16px;
+            width: 70%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .listing-info h3 {
+            margin: 0;
+            font-size: 1.2em;
+            color: #333;
+        }
+
+        .listing-info p {
+            color: #666;
+            font-size: 0.9em;
+            margin: 5px 0;
+        }
+
+        /* Footer section */
+        .listing-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .price {
+            font-size: 1.2em;
+            color: #333;
+            font-weight: bold;
+        }
+
+        .view-details {
+            background-color: #007bff;
+            font-size: small;
+            color: #fff;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .view-details:hover {
+            background-color: #0056b3;
+        }
+    </style>
+
+</head>
+<body>
+
+    {% include 'navbar.html' %}
+    
+
+    <div class="about-section">
+        <div class="overlay">
+            <h1>House Listings</h1>
+            <div class="breadcrumb">
+                <a href="{{url_for('home')}}">Home</a> <span>&#8594;</span> <span>House Listings</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="listings-container">
+        <h2>Similar Listings</h2>
+        <div class="listing-card">
+            <img src="static/image/House_List/House1/House1a.jpg" alt="Property Image">
+            <div class="listing-info">
+                <h3>House for Sale at Soaltee mode | Bafal</h3>
+                <p><span>📍 Soaltee mode road</span></p>
+                <p> 13 Aana | 3 Bedrooms | 1 Kitchen | 3 Bathrooms | 1 Living Room | 5 Parking | 2 Total Floors </p>
+                <div class="listing-footer">
+                    <span class="price"> 75 Lakh Per Anna </span>
+                    <a href="{{url_for('house1')}}" class="view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="listing-card">
+            <img src="static/image/House_List/House2/House2a.jpg" alt="Property Image">
+            <div class="listing-info">
+                <h3>House for Sale at Harisiddhi</h3>
+                <p><span>📍 Harisiddhi, Lalitpur</span></p>
+                <p> 7.1 Aana | 5 Bedrooms | 1 Kitchen | 3 Bathrooms | 2 Living Room | 1 Parking | 2.5 Total Floors </p>
+                <div class="listing-footer">
+                    <span class="price"> 4 Crore 25 Lakh </span>
+                    <a href="{{url_for('house1')}}" class="view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="listing-card">
+            <img src="static/image/House_List/House3/House3a.jpg" alt="Property Image">
+            <div class="listing-info">
+                <h3>House For Sale at Imadol | Ochu Height</h3>
+                <p><span>📍 Imadol | Ochu Height</span></p>
+                <p> 3.2 Aana | 6 Bedrooms | 2 Kitchen | 4 Bathrooms | 1 Living Room | 2 Parking | 3 Total Floors </p>
+                <div class="listing-footer">
+                    <span class="price">3 Crore 40 Lakh</span>
+                    <a href="{{url_for('house1')}}" class="view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+</body>
+</html>

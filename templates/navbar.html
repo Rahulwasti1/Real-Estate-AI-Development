@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Details</title>
+    
+    <!-- Link to External CSS Files -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/navbar.css') }}">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <header class="header">
+        <a href="{{ url_for('home') }}" class="logo">
+            <img src="static/image/logo.png" alt="BNB Logo" class="logo-image">
+        </a>
+
+        <nav class="navbar">
+            <a href="{{ url_for('home') }}" class="active">Home</a>
+            <a href="{{ url_for('about') }}">About</a>
+            <a href="{{ url_for('model') }}">Model</a>
+
+            <!-- Tools Dropdown -->
+            <div class="dropdown">
+                <a href="{{ url_for('tools') }}" class="dropbtn">Tools</a>
+                <div class="dropdown-content">
+                    <a href="{{ url_for('info') }}">Tools Option 1</a>
+                    <a href="{{ url_for('info') }}">Tools Option 2</a>
+                </div>
+            </div>
+            
+            <!-- Info Dropdown -->
+            <div class="dropdown">
+                <a href="{{ url_for('info') }}" class="dropbtn">Info</a>
+                <div class="dropdown-content">
+                    <a href="{{ url_for('info') }}">Historical Sales</a>
+                    <a href="{{ url_for('info') }}">Info Option 2</a>
+                </div>
+            </div>
+
+            <a href="{{ url_for('contact') }}">Contact</a>
+        </nav>
+
+        <!-- Get Help Button -->
+        <button id="get-help-button" onclick="openChatbot()">Get Help</button>
+
+        <!-- Chatbot Container (Initially Hidden) -->
+        <div id="chatbot-container" class="chatbot" style="display: none;">
+            <div class="chatbot-header">
+                <h2>House Recommendation Bot</h2>
+                <button onclick="closeChatbot()" class="close-btn">&times;</button>
+            </div>
+            <div id="chatbot-messages" class="chatbot-messages"></div>
+            <div class="chatbot-input-container">
+                <input type="text" id="user-input" placeholder="Type a message..." onkeypress="handleUserInput(event)">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Link to JavaScript file -->
+    <script src="{{ url_for('static', filename='js/index.js') }}"></script>
+</body>
+
+</html>
