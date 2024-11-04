@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Loan Eligibility Calculator</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/index.css')}}">
+</head>
+<body>
+
+    {% include 'navbar.html' %}
+
+    <div class="about-section">
+        <div class="overlay">
+            <h1>Eligibility Calculator</h1>
+            <div class="breadcrumb">
+                <a href="{{url_for('home')}}">Home</a> <span>&#8594;</span> <span>Eligibility Calculator</span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="calculator-container">
+        <!-- <h1 class="calch1">Home Loan Eligibility Calculator</h1> -->
+        
+        <div class="calculator">
+            <!-- Input Form Section -->
+            <div class="input-section">
+                <label for="monthlyIncome">Net Monthly Income</label>
+                <input type="text" id="monthlyIncome" placeholder="Rs 30,000">
+                
+                <label for="ongoingEMI">Ongoing EMI's</label>
+                <input type="text" id="ongoingEMI" placeholder="Rs 5,000">
+
+                <div class="dropdowns">
+                    <div>
+                        <label for="loanTenure">Loan Tenure</label>
+                        <select id="loanTenure">
+                            <option value="10">10 yrs</option>
+                            <option value="15">15 yrs</option>
+                            <option value="20">20 yrs</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="interestRate">Interest Rate % (p.a.)</label>
+                        <input type="text" id="interestRate" placeholder="10">
+                    </div>
+                </div>
+
+                <button class="calculate-btn" onclick="calculateEligibility()">Recheck Eligibility</button>
+            </div>
+
+            <!-- Result Section -->
+            <div class="result-section">
+                <h2>You are Eligible for Amount</h2>
+                <div class="amount-container">
+                    <span class="amount" id="eligibleAmount">Rs 0.00</span>
+                    <span>Lac</span>
+                </div>
+                <p class="monthly-emi" id="monthlyEMI">Monthly EMI Rs 0</p>
+                
+                <hr>
+                
+                <div class="why-section">
+                    <h3>Why Royal Estates?</h3>
+                    <ul>
+                        <li>✔ Loan Offers from 34+ Banks</li>
+                        <li>✔ Get Lowest Rate of Interest</li>
+                        <li>✔ Get Highest Loan Value</li>
+                    </ul>
+                </div>
+                
+                <button class="bank-offers-btn">Check Bank Offers</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function calculateEligibility() {
+            // Get input values and parse them as numbers
+            let monthlyIncome = parseFloat(document.getElementById("monthlyIncome").value.replace(/[^0-9.]/g, ""));
+            let ongoingEMI = parseFloat(document.getElementById("ongoingEMI").value.replace(/[^0-9.]/g, ""));
+            let loanTenure = parseFloat(document.getElementById("loanTenure").value);
+            let interestRate = parseFloat(document.getElementById("interestRate").value);
+
+            // Check for NaN (invalid input)
+            if (isNaN(monthlyIncome) || isNaN(ongoingEMI) || isNaN(loanTenure) || isNaN(interestRate)) {
+                alert("Please enter valid numbers for all fields.");
+                return;
+            }
+
+            // Calculate eligible loan amount
+            let netIncome = monthlyIncome - ongoingEMI; // Deduct ongoing EMIs from monthly income
+            let loanEligibilityFactor = 60; // Example factor, typically banks use between 50-60 times monthly net income
+            let eligibleLoanAmount = netIncome * loanEligibilityFactor; // Calculate max loan eligibility
+
+            // Calculate monthly EMI for eligible loan amount
+            let r = interestRate / (12 * 100); // Monthly interest rate
+            let n = loanTenure * 12; // Total months
+            let monthlyEMI = (eligibleLoanAmount * r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
+
+            // Update the result section
+            document.getElementById("eligibleAmount").innerText = `Rs ${(eligibleLoanAmount / 100000).toFixed(2)}`;
+            document.getElementById("monthlyEMI").innerText = `Monthly EMI Rs ${Math.round(monthlyEMI)}`;
+        }
+    </script>
+</body>
+</html>

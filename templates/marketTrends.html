@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market Trends</title>
+
+    <style>
+        .table-container {
+
+            max-width: 80%;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        thead th {
+            background-color: var(--accent);
+            color: var(--background);
+        }
+
+        tbody tr {
+            background-color: color-mix(in srgb, var(--accent) 20%, transparent 80%);
+        }
+
+        th,
+        td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+
+    {% include 'navbar.html' %}
+
+    <div class="table-container">
+
+        {{graph_html | safe}}
+
+    </div>
+
+    
+    
+</body>
+</html>

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Loan Application Process</title>
+
+    <style>
+
+        .heading h1{
+            text-align: center;
+            margin-top: 2%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color:brown;
+        }
+
+        .heading p{
+            text-align: center;
+            margin-top: 30px;
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+
+        .ending{
+            text-align: left;
+            margin-left: 8.5%;
+            margin-right: 10%;
+            margin-bottom: 5%;
+            color: rgb(158, 87, 0);
+        }
+
+        .flowchart {
+            margin-top: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+
+        .step {
+            padding: 10px 20px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            margin: 5px ;
+        }
+
+        .step-last{
+            padding: 10px 20px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            margin: 5px ;
+            margin-top: 1%;
+            margin-left: 3%;
+            margin-bottom: 40px;
+        }
+
+        .step-last li{
+            margin-top: 1%;
+            margin-left: 3%;
+        }
+
+        .step li{
+            margin-top: 1%;
+            margin-left: 3%;
+        }
+
+        .arrow {
+            font-size: 20px;
+            margin: 3px ;
+        }
+
+    </style>
+</head>
+
+<body>
+    {% include 'navbar.html' %}
+
+    <div class="heading">
+        <h1> "Home Loan Application Process: A Step-by-Step Guide" </h1>
+
+        <p> "Many <b> banks and financial institutions </b> follow a structured process for <b> lending </b>, often represented as a flowchart. This flowchart provides a clear, 
+            step-by-step overview of the lending procedures typically used by these institutions. Below, you'll find a 
+            <b> detailed guide </b> illustrating each stage of the loan process, from <b> application to approval </b>, 
+            giving you a better understanding of how the loan journey works." </p>
+
+    </div>
+
+    <div class="flowchart">
+        <div class="step">Loan application from the prospective
+            clients obtained at branch </div>
+        <div class="arrow">↓</div>
+        <div class="step">Verifying the loan application and collection of 
+            required documents / information</div>
+        <div class="arrow">↓</div>
+        <div class="step">Conducting personal interview with the client</div>
+        <div class="arrow">↓</div>
+        <div class="step">Obtaining credit information
+            about prospective client</div>
+        <div class="arrow">↓</div>
+        <div class="step">Conducting site visit </div>
+        <div class="arrow">↓</div>
+        <div class="step">Valuation of proposed collateral
+            will be carried by the registered
+            Valuator of the Bank </div>
+        <div class="arrow">↓</div>
+        <div class="step">Credit Appraisal (CA)
+            prepared by branch </div>
+        <div class="arrow">↓</div>
+        <div class="step">CA forwarded at the attention
+            of Credit Risk Assessment
+            Department (CRAD) along
+            with the documents at Head
+            Office for approval.</div>
+        <div class="arrow">↓</div>
+        <div class="step">CRAD, after assessing the risks and
+            having addressed the same, moves the
+            file to approving authorities and
+            receives the same after the decision. </div>
+        <div class="arrow">↓</div>
+        <div class="step">Upon approval of CA, The complete credit
+            file will be sent by CRAD to Credit
+            Administration Department (CAD)</div>
+        <div class="arrow">↓</div>
+        <div class="step">
+            <ol>
+                <b>CAD will:</b>
+                <li>    Review the credit proposal and note the approval comments.</li>
+                <li>    Inform the Branch about the approval.</li>
+                <li>    Check the requirement of documents (Checklist) vis-a-vis the received ones and note the incomplete documents.</li>
+                <li>    Prepare the Credit Facility Offer Letter and other security documents.</li>
+                <li>    Send (1) the list of incomplete documents, (2) security documents, and (3) the original of the approval (keeping a copy) to the Branch.</li>
+            </ol>
+        </div>
+        
+        <div class="arrow">↓</div>
+
+        <div class="step">
+            <ol>
+                <b>Branch will:</b>
+                <li>    Inform the customer about the approval and further requirements based on the List of
+                        incomplete documents and security documents provided by CAD.</li>
+                <li>    Make the documents complete and execute the security documents properly. </li>
+                <li>    Send scanned copy of the documents to CAD for loan disbursement./rate limit update. </li>
+                <li>    Keep the original executed security documents with it in fire proof cabinet. </li>
+            </ol>
+        </div>
+
+        <div class="arrow">↓</div>
+        <div class="step-last">
+            <ol>
+                <b>CAD will: </b>
+                <li>    Review the documents including the security documents. In case of any
+                    confusion, consult Legal Department. </li>
+                <li>    Check documents vis-à-vis the checklist. </li>
+                <li>    Disburse the loan confirming that all the documents are complete. </li>
+            </ol>
+        </div>
+    </div>
+    <div class="ending">
+        <p> With these clear steps, the journey to securing your home loan becomes much more straightforward. Each stage, from application to loan disbursement, is designed to support you in reaching your homeownership goals. Now that you’re familiar with the process, you can move forward confidently. </p>
+    </div>
+
+</body>
+</html>
