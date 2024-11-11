@@ -1,0 +1,301 @@
+,City,Price,Bedroom,Bathroom,Floors,Parking,Face,Year,Road Type,Address,Property_Type,Listing_Type,Garden,Area_in_Aana,Road_width_in_m
+0,Kathmandu,15000000,2,2,1.0,1,South,2074, Gravelled,Budhanilkantha,House,Sell,No,5.0,3.6576000000000004
+1,Kathmandu,52500000,5,5,3.0,3,South East,2075, Blacktopped,Budhanilkantha,House,Sell,Yes,8.0,6.096
+2,Kathmandu,26500000,6,6,3.0,1,East,2076, Paved,Budhanilkantha,House,Sell,No,4.0,3.9624
+3,Kathmandu,25500000,6,6,3.0,1,East,2076, Gravelled,Sitapaila,House,Sell,No,4.0,3.9624
+4,Kathmandu,18500000,4,4,3.0,3,South,2075, Blacktopped,Thankot,House,Sell,No,6.0,3.9624
+5,Kathmandu,62000000,7,4,3.0,3,East,2075, Blacktopped,Kalanki,House,Sell,No,10.0,0.0
+6,Kathmandu,145000000,95,40,5.0,7,East,2073, Blacktopped,Balaju,House,Sell,No,21.0,6.096
+7,Kathmandu,55000000,5,6,3.0,4,South,2071, Gravelled,Budhanilkantha,House,Sell,Yes,19.0,6.096
+8,Kathmandu,37000000,6,6,3.0,3,South East,2075, Blacktopped,Dhapasi,House,Sell,No,6.1,9.7536
+9,Kathmandu,102500000,6,6,3.0,4,East,2070, Blacktopped,Golfutar,House,Sell,Yes,19.0,3.9624
+10,Kathmandu,58500000,6,6,3.0,2,East,2076, Blacktopped,Pepsicola,House,Sell,No,6.5,4.8768
+11,Kathmandu,130000000,5,6,3.0,3,East,2074, Blacktopped,Baluwatar,House,Sell,Yes,10.0,4.572
+12,Kathmandu,105000000,8,8,4.0,4,East,2076, Blacktopped,Budhanilkantha,House,Sell,No,21.0,4.572
+13,Kathmandu,26500000,6,6,3.0,2,West,2075, Blacktopped,Hattigauda,House,Sell,No,5.0,4.2672
+14,Kathmandu,22500000,6,6,3.0,1,North East,2070, Blacktopped,Budhanilkantha,House,Sell,No,3.1,5.486400000000001
+15,Kathmandu,60000000,6,6,3.0,4,South East,2070, Soil Stabilized,Budhanilkantha,House,Sell,No,11.0,4.572
+16,Kathmandu,250000000,6,5,3.0,10,East,2075, Blacktopped,Baluwatar,House,Sell,Yes,30.0,4.572
+17,Kathmandu,40000000,9,6,4.0,3,East,2069, Paved,Tokha,House,Sell,No,9.0,3.9624
+18,Kathmandu,30000000,6,5,3.0,1,East,2076, Blacktopped,Sukedhara,House,Sell,No,3.5,4.572
+19,Kathmandu,33000000,5,6,3.0,2,North,2070, Blacktopped,Budhanilkantha,House,Sell,Yes,5.0,3.9624
+20,Kathmandu,30500000,5,5,2.0,1,West,2070, Blacktopped,Budhanilkantha,House,Sell,No,4.0,3.9624
+21,Kathmandu,28000000,6,6,3.0,1,South East,2076, Blacktopped,Budhanilkantha,House,Sell,No,4.0,3.9624
+22,Kathmandu,41000000,10,5,4.0,3,South East,2075, Blacktopped,Dhapasi,House,Sell,No,4.0,7.9248
+23,Kathmandu,27000000,6,6,3.0,2,East,2076, Gravelled,Budhanilkantha,House,Sell,No,4.5,4.2672
+24,Kathmandu,22000000,5,5,3.0,1,East,2076, Soil Stabilized,Tokha,House,Sell,No,3.1,3.9624
+25,Kathmandu,37000000,5,5,3.0,3,South East,2071, Blacktopped,Budhanilkantha,House,Sell,No,8.0,4.572
+26,Bhaktapur,29000000,3,3,2.0,2,North,2070, Blacktopped,Balkot,House,Sell,No,4.5,6.096
+27,Kathmandu,37500000,5,5,3.0,2,South East,2075, Blacktopped,Budhanilkantha,House,Sell,Yes,5.0,0.0
+28,Kathmandu,45000000,4,4,3.0,4,South West,2074, Blacktopped,Budhanilkantha,House,Sell,Yes,11.0,6.7056000000000004
+29,Kathmandu,3000000,0,0,3.0,0,West,2075, Paved,Budhanilkantha,Land,Sell,No,12.0,4.8768
+30,Kathmandu,2350000,0,0,3.0,0,South,2075, Blacktopped,Thankot,Land,Sell,No,5.0,3.9624
+31,Kathmandu,200000,0,0,3.0,0,North West,2075, Blacktopped,Dhapasi,Land,Lease,No,10.0,6.096
+32,Kathmandu,30000,2,1,3.0,0,West,2075, Blacktopped,Budhanilkantha,Flat,Rent,No,4.0,3.3528000000000002
+33,Kathmandu,2800000,0,0,3.0,0,West,2075, Blacktopped,Budhanilkantha,Land,Sell,No,18.0,6.096
+34,Kathmandu,3500000,0,0,3.0,0,East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,18.0,9.144
+35,Kathmandu,2600000,0,0,3.0,0,East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,41.0,4.572
+36,Kathmandu,3500000,0,0,3.0,0,South,2075, Blacktopped,Budhanilkantha,Land,Sell,No,10.0,9.144
+37,Kathmandu,4200000,0,0,3.0,0,South,2075, Blacktopped,Golfutar,Land,Sell,No,8.0,4.572
+38,Kathmandu,20000,2,1,3.0,1,West,2075, Blacktopped,Tokha,Flat,Rent,No,5.5,5.486400000000001
+39,Lalitpur,3500000,0,0,3.0,0,South West,2075, Gravelled,Imadol,Land,Sell,No,4.5,7.0
+40,Kathmandu,75000,7,7,3.0,3,South,2070, Blacktopped,Hattigauda,House,Rent,No,9.0,3.9624
+41,Kathmandu,30000,1,1,3.0,1,East,2075, Blacktopped,Lazimpat,Flat,Rent,No,10.0,0.0
+42,Kathmandu,5700000,0,0,3.0,0,East,2075, Blacktopped,Baluwatar,Land,Sell,No,16.0,4.2672
+43,Kathmandu,2500000,0,0,3.0,0,South,2075, Blacktopped,Hattigauda,Land,Sell,No,9.0,4.572
+44,Lalitpur,35000,0,0,5.0,2,East,2013, Blacktopped,Imadol,Office Space,Rent,No,9.0,21.945600000000002
+45,Kathmandu,250000,6,7,3.0,6,South East,2070, Blacktopped,Budhanilkantha,House,Rent,Yes,21.0,4.8768
+46,Kathmandu,5700000,0,0,3.0,0,East,2075, Blacktopped,Ranibari,Land,Sell,No,4.0,4.572
+47,Kathmandu,3000000,0,0,3.0,0,South West,2075, Soil Stabilized,Golfutar,Land,Sell,No,5.0,3.9624
+48,Kathmandu,3000000,0,0,3.0,0,North,2075, Blacktopped,Bhangal,Land,Sell,No,5.0,0.0
+49,Kathmandu,20000,1,1,3.0,1,East,2075, Blacktopped,Jorpati,Flat,Rent,No,11.0,0.0
+50,Lalitpur,60000,4,3,3.0,2,East,2075, Blacktopped,Hattiban,House,Rent,Yes,4.0,0.0
+51,Bhaktapur,70000,4,3,3.0,2,East,2075, Blacktopped,Sallaghari,House,Rent,No,4.0,0.0
+52,Kathmandu,3500000,0,0,3.0,0,South West,2075, Blacktopped,Naya Bazar,Shop,Sell,No,1.0,4.8768
+53,Kathmandu,200000,5,4,3.0,4,East,2075, Blacktopped,Budhanilkantha,House,Rent,No,25.0,0.0
+54,Kathmandu,3000000,0,0,3.0,0,East,2075, Soil Stabilized,Kapan,Land,Sell,No,4.0,3.9624
+55,Lalitpur,900000,0,0,3.0,0,East,2075, Blacktopped,Lubhu,Land,Sell,No,5.0,3.048
+56,Kathmandu,1300000,0,0,3.0,0,North,2075, Blacktopped,Gokarneshwor,Land,Sell,No,14.0,6.096
+57,Lalitpur,300000,8,5,3.0,7,East,2075, Blacktopped,Pulchowk,House,Rent,No,12.0,0.0
+58,Kathmandu,30000000,6,5,3.0,2,North,2019, Gravelled,Tokha,House,Sell,No,5.0,4.2672
+59,Lalitpur,31500000,4,4,3.0,1,South,2012, Paved,Bhaisepati,House,Sell,Yes,4.3,3.6576000000000004
+60,Kathmandu,57500000,4,5,3.0,1,South West,2076, Paved,Budhanilkantha,House,Sell,Yes,8.0,6.096
+61,Lalitpur,100000,3,3,3.0,3,East,2001, Blacktopped,Satdobato,House,Rent,No,11.0,6.096
+62,Kathmandu,25000000,6,4,4.0,2,East,2000, Paved,Chabahil,House,Sell,No,2.5,6.096
+63,Kathmandu,37000000,5,6,3.0,2,South,2076, Blacktopped,Golfutar,House,Sell,No,4.0,6.096
+64,Lalitpur,78000,4,4,3.0,1,East,2075, Blacktopped,Jawalakhel,House,Rent,Yes,5.0,0.0
+65,Kathmandu,11000000,10,3,2.0,0,East,2072, Blacktopped,Thankot,House,Sell,No,4.0,0.9144000000000001
+66,Kathmandu,2400000,0,0,3.0,0,South East,2075, Gravelled,Budhanilkantha,Land,Sell,No,5.0,3.6576000000000004
+67,Kathmandu,2700000,0,0,3.0,0,West,2075, Blacktopped,Golfutar,Land,Sell,No,13.0,3.9624
+68,Kathmandu,2300000,0,0,3.0,0,East,2075, Blacktopped,Tokha,Land,Sell,No,6.0,6.096
+69,Kathmandu,37000000,5,5,3.0,1,South,2076, Blacktopped,Golfutar,House,Sell,No,4.0,6.096
+70,Kathmandu,45000000,6,6,3.0,3,East,2076, Blacktopped,Sukedhara,House,Sell,No,6.0,6.096
+71,Kathmandu,100000,5,4,3.0,2,East,2075, Blacktopped,Maharajgunj,House,Rent,Yes,11.0,0.0
+72,Lalitpur,75000,3,3,3.0,1,East,2075, Blacktopped,Bhaisepati,House,Rent,Yes,5.5,0.0
+73,Lalitpur,25000000,7,6,3.0,3,North East,2020, Blacktopped,Imadol,House,Sell,No,4.75,3.9624
+74,Lalitpur,21000000,4,5,1.0,1,South West,2019, Gravelled,Imadol,House,Sell,No,4.0,6.096
+75,Kathmandu,1650000,0,0,3.0,0,West,2075, Blacktopped,Gokarneshwor,Land,Sell,No,22.0,8.5344
+76,Kathmandu,45000000,5,6,3.0,3,North East,2075, Paved,Budhanilkantha,House,Sell,Yes,6.0,3.9624
+77,Lalitpur,30000,3,2,4.0,1,North East,2018, Blacktopped,Imadol,Flat,Rent,No,8.0,3.048
+78,Kathmandu,102500000,6,6,3.0,4,East,2076, Blacktopped,Golfutar,House,Sell,Yes,19.0,3.9624
+79,Kathmandu,32500000,5,5,3.0,1,East,2076, Blacktopped,Budhanilkantha,House,Sell,No,4.0,3.9624
+80,Kathmandu,24000000,7,8,4.0,1,South East,2065, Gravelled,Chapali,House,Sell,No,5.0,3.9624
+81,Kathmandu,2200000,1,1,1.0,2,East,2016, Gravelled,Balaju,House,Sell,Yes,12.5,3.048
+82,Kathmandu,16800000,5,5,3.0,1,North East,2074, Gravelled,Pasikot,House,Sell,No,3.0,4.2672
+83,Kathmandu,34000000,6,6,3.0,2,North East,2076, Blacktopped,Budhanilkantha,House,Sell,No,5.5,9.144
+84,Kathmandu,42500000,5,6,3.0,4,South East,2071, Gravelled,Chapali,House,Sell,Yes,12.0,4.2672
+85,Kathmandu,790000,6,7,3.0,10,East,2065, Blacktopped,Maharajgunj,House,Rent,Yes,80.0,7.315200000000001
+86,Kathmandu,1300000,0,0,3.0,0,East,2075, Blacktopped,Kapan,Land,Sell,No,7.2,0.0
+87,Kathmandu,15000000,3,3,3.0,2,West,2075, Blacktopped,Matatirtha,House,Sell,Yes,8.2,1.2192
+88,Lalitpur,55000,2,1,3.0,0,East,2075, Blacktopped,Jawalakhel,Flat,Rent,No,5.0,0.0
+89,Kathmandu,15000000,4,4,3.0,2,West,2014, Blacktopped,Kapan,House,Sell,No,3.2,0.0
+90,Kathmandu,23500000,0,0,3.0,0,North East,2050, Alley,Jorpati,House,Sell,No,3.0,0.0
+91,Kathmandu,750000,0,0,3.0,0,East,2075, Blacktopped,Samakhusi,Business,Sell,No,4.0,0.0
+92,Lalitpur,30000000,4,4,3.0,1,East,2075, Blacktopped,Bhaisepati,House,Sell,Yes,3.0,0.0
+93,Kathmandu,81000000,6,6,3.0,6,East,2072, Gravelled,Pasikot,House,Sell,Yes,21.0,4.572
+94,Kathmandu,55000000,5,5,2.0,6,North,2069, Blacktopped,Pasikot,House,Sell,Yes,12.0,6.7056000000000004
+95,Lalitpur,273258,4,0,4.0,1,East,2010, Paved,Kupondole,House,Rent,Yes,23.0,3.048
+96,Kathmandu,1450000,0,0,3.0,0,South East,2075, Blacktopped,Chandragiri,Land,Sell,No,4.5,3.9624
+97,Kathmandu,9500000,3,1,3.0,1,South,2076, Gravelled,Chandragiri,House,Sell,No,3.0,3.9624
+98,Kathmandu,2900000,0,0,3.0,0,East,2075, Gravelled,Hattigauda,Land,Sell,No,14.0,6.096
+99,Lalitpur,20000000,3,3,3.0,1,East,2075, Blacktopped,Imadol,House,Sell,No,3.0,0.0
+100,Kathmandu,200000,5,4,3.0,2,South,2075, Blacktopped,Budhanilkantha,House,Rent,Yes,12.0,0.0
+101,Kathmandu,60000,3,4,2.0,2,East,2019, Blacktopped,Chovar,House,Rent,Yes,7.0,0.0
+102,Kathmandu,65000000,5,6,3.0,3,South East,2076, Blacktopped,Dhapasi,House,Sell,No,8.0,6.7056000000000004
+103,Kathmandu,200000,4,4,3.0,2,East,2075, Blacktopped,Budhanilkantha,House,Rent,Yes,5.0,0.0
+104,Kathmandu,95000,4,2,2.0,1,East,2019, Gravelled,Bhangal,House,Rent,Yes,6.5,3.6576000000000004
+105,Kathmandu,250000,17,19,3.0,4,East,2075, Blacktopped,Naya Bazar,House,Rent,No,6.0,0.0
+106,Lalitpur,60000,4,3,3.0,2,East,2075, Blacktopped,Dhapakhel,House,Rent,Yes,3.0,0.0
+107,Kathmandu,16000,2,1,3.0,0,South,2009, Gravelled,Thankot,Flat,Rent,No,6.0,2.1336
+108,Kathmandu,3000000,0,0,3.0,0,South,2075, Blacktopped,Kapan,Land,Sell,No,12.02,6.4008
+109,Lalitpur,25000,2,2,3.0,1,East,2075, Blacktopped,Bhaisepati,Flat,Rent,No,14.0,0.0
+110,Lalitpur,60000,2,2,3.0,1,East,2075, Blacktopped,Bhaisepati,House,Rent,Yes,5.0,0.0
+111,Kathmandu,65000,3,3,3.0,2,East,2075, Blacktopped,Sitapaila,House,Rent,Yes,6.0,0.0
+112,Lalitpur,25000,4,2,3.0,1,East,2075, Blacktopped,Sanepa,Flat,Rent,No,3.0,0.0
+113,Kathmandu,3500000,0,0,3.0,0,North East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,10.0,4.572
+114,Lalitpur,2700000,0,0,3.0,0,South East,2075, Gravelled,Imadol,Land,Sell,No,8.0,4.2672
+115,Lalitpur,150000,4,4,3.0,1,East,2075, Blacktopped,Bhaisepati,House,Rent,Yes,4.5,0.0
+116,Lalitpur,60000,2,2,3.0,1,East,2075, Blacktopped,Sunakothi,House,Rent,Yes,5.0,0.0
+117,Kathmandu,85000000,5,6,3.0,4,East,2069, Blacktopped,Samakhusi,House,Sell,No,13.0,6.096
+118,Kathmandu,160000000,6,6,3.0,5,East,2076, Blacktopped,Budhanilkantha,House,Sell,No,21.0,6.096
+119,Kathmandu,61000000,12,8,4.0,4,East,2069, Blacktopped,Samakhusi,House,Sell,No,11.0,3.9624
+120,Kathmandu,45000000,6,6,3.0,2,East,2075, Blacktopped,Golfutar,House,Sell,No,6.0,4.572
+121,Kathmandu,49500000,5,5,3.0,2,East,2073, Blacktopped,Chabahil,House,Sell,No,4.5,4.2672
+122,Kathmandu,24000000,6,6,3.0,1,North East,2076, Blacktopped,Baniyatar,House,Sell,No,3.5,4.572
+123,Kathmandu,68000000,0,0,3.0,0,East,2075, Blacktopped,Sitapaila,Land,Sell,No,8.0,9.144
+124,Kathmandu,62000000,5,6,3.0,4,South West,2075, Gravelled,Budhanilkantha,House,Sell,No,17.0,4.2672
+125,Kathmandu,69000000,7,7,3.0,4,South East,2075, Blacktopped,Dhapasi,House,Sell,No,12.0,6.096
+126,Kathmandu,45000000,6,7,3.0,2,East,2075, Blacktopped,Golfutar,House,Sell,No,6.0,4.572
+127,Lalitpur,65000,4,3,3.0,1,East,2075, Blacktopped,Sunakothi,House,Rent,No,6.0,0.0
+128,Bhaktapur,1500000,0,0,3.0,0,North,2075, Blacktopped,Changunarayan,Land,Sell,No,6.0,3.6576000000000004
+129,Lalitpur,400000,0,5,5.0,3,North,2001, Gravelled,Kupondole,House,Rent,Yes,9.0,1.0
+130,Kathmandu,23000000,5,5,3.0,1,West,2073, Gravelled,Sundarbasti,House,Sell,No,4.0,3.9624
+131,Kathmandu,60000000,5,6,4.0,4,East,2076, Paved,Baluwatar,House,Sell,No,5.5,3.9624
+132,Kathmandu,55000000,5,6,3.0,2,South,2073, Blacktopped,Samakhusi,House,Sell,No,7.0,4.2672
+133,Kathmandu,60000,0,0,3.0,0,South East,2075, Blacktopped,Samakhusi,House,Rent,No,5.0,3.9624
+134,Lalitpur,23500000,4,4,3.0,1,West,2016, Blacktopped,Imadol,House,Sell,Yes,3.75,3.9624
+135,Kathmandu,60000,4,3,3.0,1,South East,2010, Blacktopped,Dhapasi,House,Rent,No,10.0,6.096
+136,Kathmandu,2650000,0,0,3.0,0,East,2075, Gravelled,Chapali,Land,Sell,No,3.3,6.096
+137,Kathmandu,235000000,5,5,3.0,1,East,2076, Gravelled,Sano Bharyang,House,Sell,No,3.0,3.9624
+138,Kathmandu,27600000,7,6,3.0,1,East,2076, Gravelled,Budhanilkantha,House,Sell,No,4.0,3.9624
+139,Kathmandu,70000000,6,7,3.0,10,East,2068, Blacktopped,Budhanilkantha,House,Sell,No,22.0,4.572
+140,Kathmandu,500000000,5,5,3.0,2,East,2075, Blacktopped,Chabahil,House,Sell,No,4.5,4.572
+141,Kathmandu,160000000,10,10,4.0,5,East,2076, Blacktopped,Budhanilkantha,House,Sell,No,21.0,6.096
+142,Kathmandu,42500000,6,6,3.0,0,South East,2075, Blacktopped,Baluwatar,House,Sell,No,6.0,4.572
+143,Kathmandu,18000000,5,5,3.0,1,North,2076, Gravelled,Budhanilkantha,House,Sell,No,3.1,3.9624
+144,Kathmandu,27500000,6,6,3.0,2,East,2076, Gravelled,Budhanilkantha,House,Sell,No,4.0,4.2672
+145,Kathmandu,145000000,5,6,3.0,4,East,2076, Blacktopped,Budhanilkantha,House,Sell,Yes,20.0,5.486400000000001
+146,Kathmandu,17500000,4,2,3.0,0,North East,2075, Blacktopped,Ramkot,House,Sell,No,5.0,6.096
+147,Kathmandu,15500000,4,2,2.0,1,North East,2075, Blacktopped,Ramkot,House,Sell,No,4.0,0.0
+148,Kathmandu,15500000,4,2,3.0,1,North East,2075, Blacktopped,Ramkot,House,Sell,No,4.0,6.096
+149,Kathmandu,3200000,0,0,3.0,0,East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,10.0,3.9624
+150,Kathmandu,2300000,0,0,3.0,0,East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,5.5,3.9624
+151,Kathmandu,42000000,7,6,3.0,3,East,2076, Gravelled,Budhanilkantha,House,Sell,No,8.5,3.9624
+152,Kathmandu,2500000,0,0,3.0,0,North East,2075, Blacktopped,Tokha,Land,Sell,No,16.0,0.0
+153,Kathmandu,100000,3,4,2.0,1,North,2075, Blacktopped,Budhanilkantha,House,Rent,No,4.0,4.572
+154,Kathmandu,3000000,0,0,3.0,0,South East,2075, Blacktopped,Boudha,Land,Sell,No,5.2,4.572
+155,Kathmandu,150000,0,0,5.0,2,South West,2075, Blacktopped,Boudha,House,Rent,No,3.0,0.0
+156,Kathmandu,130000,12,0,3.0,3,North East,2075, Blacktopped,Maharajgunj,Office Space,Rent,No,6.0,4.8768
+157,Kathmandu,150000,8,3,3.0,2,North East,2075, Blacktopped,Lazimpat,House,Rent,No,4.0,4.8768
+158,Kathmandu,2500000,0,0,3.0,0,North East,2075, Gravelled,Budhanilkantha,Land,Sell,No,4.0,4.572
+159,Kathmandu,80000,13,0,4.0,0,East,2075, Blacktopped,Gongabu,House,Rent,No,4.0,3.9624
+160,Kathmandu,2600000,0,0,3.0,0,East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,4.0,6.7056000000000004
+161,Kathmandu,150000,4,4,3.0,2,North East,2075, Blacktopped,Lazimpat,House,Rent,Yes,7.0,3.9624
+162,Kathmandu,17000000,8,3,10.0,2,North,2075, Soil Stabilized,Kapan,House,Sell,No,3.5,3.048
+163,Kathmandu,3200000,0,0,3.0,0,East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,7.0,3.9624
+164,Kathmandu,17000000,4,5,3.0,1,West,2076, Gravelled,Kapan,House,Sell,No,3.0,4.8768
+165,Kathmandu,32500000,8,6,3.0,1,South East,2076, Blacktopped,Budhanilkantha,House,Sell,No,4.0,6.096
+166,Kathmandu,29800000,5,5,3.0,2,East,2076, Paved,Budhanilkantha,House,Sell,No,4.0,4.572
+167,Kathmandu,29900000,7,6,3.0,2,South West,2019, Blacktopped,Budhanilkantha,House,Sell,Yes,5.0,6.096
+168,Kathmandu,21000000,6,6,3.0,1,East,2074, Paved,Tokha,House,Sell,No,3.0,3.9624
+169,Kathmandu,100000000,6,6,3.0,5,East,2069, Blacktopped,Golfutar,House,Sell,Yes,19.0,3.9624
+170,Kathmandu,3500000,0,0,3.0,0,East,2075, Blacktopped,Hattigauda,Land,Sell,No,19.0,4.572
+171,Kathmandu,33500000,6,6,3.0,1,South East,2076, Blacktopped,Tokha,House,Sell,No,4.0,4.2672
+172,Kathmandu,28500000,5,5,3.0,1,North,2076, Gravelled,Hattigauda,House,Sell,No,4.0,4.572
+173,Kathmandu,35000000,5,5,3.0,2,East,2069, Blacktopped,Naya Bazar,House,Sell,No,5.0,6.096
+174,Kathmandu,49000000,5,5,3.0,2,West,2076, Gravelled,Budhanilkantha,House,Sell,Yes,8.5,3.9624
+175,Kathmandu,29000000,6,6,3.0,1,East,2074, Blacktopped,Tokha,House,Sell,No,4.0,3.9624
+176,Kathmandu,44500000,5,5,3.0,1,South,2076, Blacktopped,Budhanilkantha,House,Sell,No,5.0,4.8768
+177,Kathmandu,5500000,0,0,3.0,0,South,2075, Blacktopped,Maharajgunj,Land,Sell,No,5.0,4.572
+178,Kathmandu,3700000,0,0,3.0,0,East,2075, Blacktopped,Golfutar,Land,Sell,No,8.0,4.8768
+179,Kathmandu,5700000,0,0,3.0,0,East,2075, Blacktopped,Baluwatar,Land,Sell,No,16.0,3.6576000000000004
+180,Lalitpur,1200000,0,0,3.0,0,South East,2075, Soil Stabilized,Dhapakhel,Land,Sell,No,3.3,6.096
+181,Kathmandu,15000,2,1,3.0,1,North,2019, Gravelled,Balaju,House,Rent,No,3.0,3.9624
+182,Lalitpur,150000,5,3,3.0,1,East,2012, Blacktopped,Hattiban,House,Rent,Yes,10.0,17.0
+183,Kathmandu,18200000,5,5,3.0,1,East,2076, Blacktopped,Kapan,House,Sell,No,3.2,3.9624
+184,Kathmandu,26000000,6,5,3.0,1,East,2076, Blacktopped,Kapan,House,Sell,No,4.0,4.2672
+185,Kathmandu,2300000,0,0,3.0,0,East,2075, Soil Stabilized,Sitapaila,Land,Sell,No,5.1,3.6576000000000004
+186,Kathmandu,33500000,5,5,3.0,2,North West,2076, Gravelled,Hattigauda,House,Sell,No,5.5,3.9624
+187,Kathmandu,29000000,5,5,3.0,2,South,2075, Gravelled,Budhanilkantha,House,Sell,Yes,5.0,4.2672
+188,Kathmandu,2600000,0,0,3.0,0,North East,2075, Blacktopped,Tokha,Land,Sell,No,4.0,4.572
+189,Kathmandu,36000000,5,5,3.0,1,East,2070, Blacktopped,Budhanilkantha,House,Sell,Yes,6.0,3.9624
+190,Kathmandu,47500000,4,5,3.0,3,East,2070, Soil Stabilized,Golfutar,House,Sell,Yes,9.0,4.572
+191,Kathmandu,23000000,6,5,3.0,1,North West,2076, Gravelled,Samakhusi,House,Sell,No,3.5,3.9624
+192,Kathmandu,24500000,6,5,3.0,1,North East,2076, Gravelled,Hattigauda,House,Sell,No,4.0,6.7056000000000004
+193,Kathmandu,23800000,6,6,3.0,1,East,2076, Blacktopped,Bhangal,House,Sell,No,4.0,5.486400000000001
+194,Kathmandu,31000000,5,5,3.0,1,South West,2076, Paved,Budhanilkantha,House,Sell,No,4.5,4.2672
+195,Kathmandu,29000000,6,5,3.0,1,South,2076, Gravelled,Tokha,House,Sell,No,4.0,3.9624
+196,Kathmandu,56000000,5,5,3.0,2,South,2071, Blacktopped,Maharajgunj,House,Sell,No,8.0,4.572
+197,Kathmandu,67500000,5,5,3.0,3,South East,2070, Blacktopped,Maharajgunj,House,Sell,Yes,9.0,6.096
+198,Kathmandu,4000000,0,0,3.0,0,East,2075, Blacktopped,Hattigauda,Land,Sell,No,11.0,3.9624
+199,Kathmandu,3500000,0,0,3.0,0,East,2075, Soil Stabilized,Budhanilkantha,Land,Sell,No,6.0,4.572
+200,Kathmandu,37500000,6,6,3.0,1,East,2076, Blacktopped,Samakhusi,House,Sell,No,3.75,3.9624
+201,Kathmandu,350000,6,6,3.0,4,East,2076, Gravelled,Golfutar,House,Rent,Yes,22.0,4.8768
+202,Kathmandu,4200000,0,0,3.0,0,East,2075, Blacktopped,Budhanilkantha,Land,Sell,No,8.0,3.9624
+203,Kathmandu,35000000,6,5,3.0,1,East,2076, Blacktopped,Samakhusi,House,Sell,No,4.75,3.9624
+204,Kathmandu,25000,2,1,3.0,1,East,2075, Blacktopped,Budhanilkantha,Flat,Rent,No,5.0,0.0
+205,Lalitpur,19000000,4,3,3.0,1,North,2076, Blacktopped,Imadol,House,Sell,No,3.5,0.0
+206,Kathmandu,34000000,5,4,3.0,1,South,2075, Blacktopped,Pepsicola,House,Sell,No,6.0,4.2672
+207,Kathmandu,26300000,5,0,3.0,1,East,2075, Blacktopped,Tokha,House,Sell,No,4.0,3.9624
+208,Kathmandu,16000000,4,3,3.0,1,East,2076, Paved,Tokha,House,Sell,No,3.0,3.6576000000000004
+209,Lalitpur,19700000,4,4,3.0,2,South,2076, Blacktopped,Imadol,House,Sell,No,3.5,3.9624
+210,Kathmandu,29000000,6,5,3.0,1,East,2076, Gravelled,Tokha,House,Sell,No,4.0,6.096
+211,Kathmandu,45000000,6,6,3.0,3,East,2075, Gravelled,Hattigauda,House,Sell,No,8.5,3.9624
+212,Kathmandu,36000000,4,5,3.0,3,West,2075, Soil Stabilized,Golfutar,House,Sell,Yes,7.0,9.144
+213,Kathmandu,35500000,5,5,3.0,2,North West,2075, Gravelled,Hattigauda,House,Sell,Yes,5.5,3.9624
+214,Bhaktapur,15500000,4,2,3.0,1,East,2073, Gravelled,Balkot,House,Sell,No,3.0,3.9624
+215,Kathmandu,40000000,5,5,3.0,3,East,2076, Paved,Budhanilkantha,House,Sell,No,7.5,6.096
+216,Lalitpur,18000000,5,3,3.0,1,West,2019, Blacktopped,Imadol,House,Sell,Yes,3.1,3.9624
+217,Kathmandu,25500000,5,6,3.0,1,East,2076, Blacktopped,Dhapasi,House,Sell,No,3.5,3.9624
+218,Kathmandu,68000000,5,5,3.0,4,East,2076, Blacktopped,Chapali,House,Sell,Yes,12.0,4.572
+219,Kathmandu,21500000,6,5,3.0,1,North East,2076, Gravelled,Sundarbasti,House,Sell,No,3.5,6.096
+220,Kathmandu,80000000,4,4,3.0,4,East,2072, Blacktopped,Pasikot,House,Sell,Yes,21.0,4.2672
+221,Kathmandu,19900000,6,5,3.0,1,South West,2076, Paved,Sundarbasti,House,Sell,No,3.1,3.6576000000000004
+222,Kathmandu,72000000,5,5,3.0,0,South West,2070, Blacktopped,Dhapasi,House,Sell,No,17.0,4.572
+223,Kathmandu,60000000,5,5,3.0,0,North East,2076, Blacktopped,Baluwatar,House,Sell,Yes,6.0,3.9624
+224,Kathmandu,57500000,6,5,3.0,6,North West,2075, Blacktopped,Budhanilkantha,House,Sell,Yes,12.0,4.572
+225,Kathmandu,66000000,5,5,3.0,4,South East,2071, Blacktopped,Dhapasi,House,Sell,Yes,14.0,6.096
+226,Kathmandu,33500000,4,4,3.0,1,North East,2072, Blacktopped,Dhapasi,House,Sell,No,5.0,6.096
+227,Kathmandu,65000000,5,5,3.0,3,South,2076, Blacktopped,Dhapasi,House,Sell,Yes,8.0,6.096
+228,Kathmandu,45000000,4,5,3.0,3,South East,2075, Blacktopped,Budhanilkantha,House,Sell,Yes,7.0,4.572
+229,Kathmandu,3500000,0,0,3.0,0,South West,2075, Gravelled,Hattigauda,Land,Sell,No,4.5,3.9624
+230,Lalitpur,35000,4,3,2.0,1,East,2019, Paved,Godawari,House,Rent,No,4.0,5.0
+231,Kathmandu,20500000,4,4,3.0,1,South,2074, Gravelled,Sitapaila,House,Sell,No,4.0,4.572
+232,Kathmandu,18000000,4,4,3.0,1,North,2075, Gravelled,Sitapaila,House,Sell,No,3.1,3.9624
+233,Kathmandu,72000000,5,5,3.0,4,East,2075, Blacktopped,Budhanilkantha,House,Sell,Yes,13.0,4.572
+234,Kathmandu,23000000,6,5,3.0,1,East,2075, Blacktopped,Tokha,House,Sell,No,4.0,3.9624
+235,Kathmandu,40000000,7,8,4.0,2,East,2075, Paved,Samakhusi,House,Sell,No,4.0,4.2672
+236,Kathmandu,21500000,5,5,3.0,1,South,2076, Gravelled,Sundarbasti,House,Sell,No,3.5,3.9624
+237,Kathmandu,34500000,6,3,2.0,2,North East,2000, Blacktopped,Baneshwor,House,Sell,No,4.0,0.0
+238,Kathmandu,70000000,4,4,2.0,4,West,2064, Blacktopped,Dhapasi,House,Sell,Yes,16.0,4.2672
+239,Kathmandu,65000000,5,5,3.0,4,South,2069, Blacktopped,Budhanilkantha,House,Sell,Yes,15.0,4.2672
+240,Kathmandu,5800000,0,2,2.0,2,North,2060, Paved,Chabahil,House,Sell,Yes,10.0,5.486400000000001
+241,Kathmandu,20000000,0,0,0.0,2,East,2076, Gravelled,Gongabu,House,Sell,No,3.0,4.2672
+242,Kathmandu,22000000,10,0,3.0,0,North,2075, Blacktopped,Budhanilkantha,House,Sell,No,5.0,4.572
+243,Kathmandu,26000000,0,0,3.0,1,East,2076, Gravelled,Tokha,House,Sell,Yes,4.0,3.6576000000000004
+244,Kathmandu,26500000,0,0,3.0,1,South East,2075, Blacktopped,Baniyatar,House,Sell,Yes,4.0,4.2672
+245,Kathmandu,60000000,0,0,4.0,0,South,2075, Blacktopped,Balkhu,House,Sell,No,5.1,0.0
+246,Kathmandu,1200000,0,0,3.0,0,North,2075, Gravelled,Ramkot,Land,Sell,No,8.0,6.096
+247,Kathmandu,900000,0,0,3.0,0,South,2075, Paved,Balaju,Land,Sell,No,3.0,3.048
+248,Lalitpur,3700000,0,0,3.0,0,South West,2075, Gravelled,Imadol,Land,Sell,No,5.0,12.192
+249,Lalitpur,6500000,2,1,2.0,0,West,2075, Gravelled,Imadol,House,Sell,No,3.0,1.524
+250,Kathmandu,18000000,6,4,3.0,2,East,2019, Gravelled,Golfutar,House,Sell,No,3.0,3.9624
+251,Kathmandu,35000000,4,4,4.0,1,East,2019, Blacktopped,Mulpani,House,Sell,Yes,4.0,6.7056000000000004
+252,Kathmandu,13500000,4,3,3.0,1,South East,2019, Gravelled,Pepsicola,House,Sell,No,2.5,3.9624
+253,Bhaktapur,85000,0,0,3.0,0,East,2019, Soil Stabilized,Balkot,House,Rent,No,12.0,3.6576000000000004
+254,Kathmandu,1900000,0,0,3.0,0,West,2075, Soil Stabilized,Kirtipur,Land,Sell,No,5.0,3.6576000000000004
+255,Kathmandu,45000000,0,0,3.0,0,South,2075, Soil Stabilized,Budhanilkantha,House,Sell,No,8.0,4.572
+256,Kathmandu,49500000,0,0,3.0,0,South,2075, Blacktopped,Budhanilkantha,House,Sell,No,9.0,4.572
+257,Lalitpur,16000000,16,4,4.0,1,East,2063, Concrete,Imadol,House,Sell,No,4.0,3.048
+258,Kathmandu,65000000,5,5,3.0,3,South East,2075, Soil Stabilized,Budhanilkantha,House,Sell,Yes,15.0,3.9624
+259,Kathmandu,56000000,6,6,3.0,3,East,2074, Soil Stabilized,Golfutar,House,Sell,No,10.0,6.096
+260,Kathmandu,44500000,6,5,3.0,3,South East,2076, Blacktopped,Budhanilkantha,House,Sell,Yes,8.1,4.572
+261,Kathmandu,85000000,5,5,3.0,3,East,2075, Soil Stabilized,Hattigauda,House,Sell,Yes,17.0,3.9624
+262,Kathmandu,25000000,7,5,4.0,1,North,2019, Gravelled,Balaju,House,Sell,Yes,3.0,3.9624
+263,Kathmandu,7000000,0,0,3.0,0,North,2075, Blacktopped,Gongabu,Land,Sell,No,4.0,6.096
+264,Kathmandu,21500000,5,5,3.0,1,East,2076, Gravelled,Sundarbasti,House,Sell,No,3.5,3.9624
+265,Kathmandu,3900000,0,0,3.0,0,East,2075, Blacktopped,Tokha,Land,Sell,No,8.0,4.572
+266,Kathmandu,6700000,0,0,3.0,0,West,2075, Blacktopped,Golfutar,Land,Sell,No,4.0,10.0584
+267,Kathmandu,25500000,7,5,3.0,1,East,2076, Gravelled,Budhanilkantha,House,Sell,No,5.0,6.096
+268,Bhaktapur,10500000,0,0,3.0,0,South,2075, Blacktopped,Changunarayan,House,Sell,No,4.0,3.048
+269,Kathmandu,22000000,3,4,3.0,1,East,2018, Blacktopped,Sitapaila,House,Sell,No,3.0,4.2672
+270,Kathmandu,47000000,18,6,3.0,6,South,2075, Blacktopped,Sukedhara,House,Sell,No,6.0,3.9624
+271,Kathmandu,22000000,6,5,3.0,1,East,2016, Gravelled,Kapan,House,Sell,No,5.0,4.2672
+272,Kathmandu,550000,24,0,4.0,15,East,2076, Blacktopped,Budhanilkantha,House,Rent,Yes,48.0,6.7056000000000004
+273,Kathmandu,30000000,10,8,4.0,2,South,2068, Blacktopped,Budhanilkantha,House,Sell,No,4.0,9.144
+274,Kathmandu,20000000,0,0,3.0,0,South,2075, Blacktopped,Jorpati,House,Sell,No,4.0,4.572
+275,Lalitpur,1100000,0,0,3.0,0,South,2075, Gravelled,Godawari,Land,Sell,No,5.0,6.096
+276,Bhaktapur,1200000,0,0,0.0,0,South West,2075, Soil Stabilized,Suryabinayak,Land,Sell,No,39.0,6.096
+277,Kathmandu,44000000,5,6,3.0,1,East,2076, Blacktopped,Samakhusi,House,Sell,No,4.0,4.572
+278,Kathmandu,100000000,6,6,3.0,10,North West,2071, Blacktopped,Budhanilkantha,House,Sell,Yes,20.0,6.096
+279,Kathmandu,96000000,5,7,3.0,0,South East,2074, Blacktopped,Budhanilkantha,House,Sell,Yes,18.0,6.096
+280,Kathmandu,28500000,6,6,3.0,2,East,2076, Blacktopped,Bhangal,House,Sell,No,4.5,6.096
+281,Kathmandu,65000000,5,6,3.0,3,East,2076, Blacktopped,Maharajgunj,House,Sell,Yes,6.5,4.572
+282,Lalitpur,95000,4,2,4.0,4,South East,2075, Paved,Kupondole,Office Space,Rent,No,8.0,0.0
+283,Kathmandu,18000000,0,0,3.0,0,South,2075, Blacktopped,Hattigauda,House,Sell,No,3.0,4.8768
+284,Kathmandu,35000000,0,0,3.0,0,North,2075, Gravelled,Hattigauda,House,Sell,No,7.0,4.572
+285,Kathmandu,15000,0,0,3.0,0,North West,2018, Blacktopped,Budhanilkantha,Business,Rent,No,8.0,7.315200000000001
+286,Kathmandu,35000,0,2,3.0,1,North,2075, Blacktopped,Lazimpat,Office Space,Rent,No,3.0,0.0
+287,Kathmandu,5500000,0,0,3.0,0,East,2075, Blacktopped,Pepsicola,Land,Sell,No,4.5,4.8768
+288,Kathmandu,22000,2,2,3.0,1,South West,2075, Blacktopped,Balkhu,Flat,Rent,No,6.0,3.9624
+289,Kathmandu,22500000,9,4,3.0,3,South,2075, Blacktopped,Samakhusi,House,Sell,No,3.0,3.9624
+290,Kathmandu,27500000,6,3,3.0,3,West,2075, Blacktopped,Samakhusi,House,Sell,No,4.0,3.9624
+291,Lalitpur,23800000,6,3,3.0,1,South East,2016, Gravelled,Imadol,House,Sell,No,4.0,3.9624
+292,Kathmandu,3500000,0,0,3.0,0,North,2075, Gravelled,Kalanki,Land,Sell,No,5.0,4.2672
+293,Lalitpur,1000000,0,0,3.0,0,North,2075, Gravelled,Lubhu,Land,Sell,No,5.0,5.1816
+294,Bhaktapur,1800000,0,0,3.0,0,North,2075, Blacktopped,Duwakot,Land,Sell,No,30.0,6.096
+295,Kathmandu,25500000,6,4,3.0,2,East,2075, Blacktopped,Budhanilkantha,House,Sell,Yes,4.5,3.9624
+296,Kathmandu,15000000,0,0,3.0,0,East,2073, Blacktopped,Kapan,House,Sell,No,3.0,3.048
+297,Kathmandu,5400000,0,0,3.0,0,South,2075, Blacktopped,Boudha,Land,Sell,No,4.0,6.0
+298,Lalitpur,49500000,0,0,3.0,0,East,2075, Blacktopped,Hattiban,House,Sell,No,9.0,4.8768
+299,Lalitpur,10000000,2,2,1.0,1,North East,2075, Blacktopped,Imadol,House,Sell,No,3.0,3.9624

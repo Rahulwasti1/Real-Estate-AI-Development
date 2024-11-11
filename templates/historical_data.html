@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Sales Data</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 5%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 34px;  
+            background-image: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient colors */
+            -webkit-background-clip: text; 
+            background-clip: text; 
+            color: transparent;  
+        }
+
+        .label{
+            font-size: 16px;
+        }
+
+
+        #salesChart {
+            margin-top: 40px;
+        }
+        select {
+            padding: 8px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    {% include 'navbar.html' %}
+
+
+    <div class="container">
+        <h1>Sales Data Visualizations</h1>
+
+        <!-- Question Dropdown -->
+        <form method="POST">
+            <label for="question">Explore Data Insights:</label>
+            <select id="question" name="question" onchange="this.form.submit()">
+                <option value="city_sales" {% if selected_question == 'city_sales' %}selected{% endif %}>Which city has the most sales?</option>
+                <option value="year_sales" {% if selected_question == 'year_sales' %}selected{% endif %}>What is the distribution of sales by year?</option>
+                <option value="road_type_sales" {% if selected_question == 'road_type_sales' %}selected{% endif %}>What are the sales distribution by road type?</option>
+                <option value="address_sales" {% if selected_question == 'address_sales' %}selected{% endif %}>Which address has the most sales?</option>
+                <option value="property_sales" {% if selected_question == 'property_sales' %}selected{% endif %}>What is the distribution of sales by property type?</option>
+            </select>
+        </form>
+
+        <div id="salesChart">
+            {{ graph_html|safe }}
+        </div>
+    </div>
+</body>
+</html>

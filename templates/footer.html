@@ -1,45 +1,61 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Footer Example</title>
-    <link rel="stylesheet" href="url_for{{'static', filename='static/css/footer.css'}}">
+    <link rel="stylesheet" href="styles.css">
+    <!-- Font Awesome for social media icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/footer.css') }}">
+
 </head>
 <body>
-    <footer class="footer">
-        <div class="footer-container"> -->
-            <!-- Logo and Social Media -->
-            <!-- <div class="footer-logo">
-                <h2>LNNOVA</h2>
-                <p>Real Estate</p>
-                <div class="social-icons">
-                    <a href="#"><img src="path/to/facebook-icon.png" alt="Facebook"></a>
-                    <a href="#"><img src="path/to/instagram-icon.png" alt="Instagram"></a>
-                    <a href="#"><img src="path/to/linkedin-icon.png" alt="LinkedIn"></a>
-                </div>
-            </div> -->
 
-            <!-- Links Section -->
-            <!-- <div class="footer-links">
-                <h3>Links</h3>
-                <ul>
-                    <li><a href="#">Buy</a></li>
-                    <li><a href="#">Rent</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Careers</a></li>
-                    <li><a href="#">Developers</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                </ul>
-            </div> -->
+    <footer>
+        <div class="footer-container">
+            <!-- Left Column -->
+            <div class="footer-column">
+                <h3>Jagga</h3>
+                <p>"Welcome to Jagga, your trusted partner in real estate. We specialize in helping clients find their ideal properties, whether it’s a new home, commercial space, or investment opportunity."</p>
+            </div>
+            
+            <!-- Middle Column -->
+            <div class="footer-column">
+                <h4>Contact Us</h4>
+                <p>hello@jagga.com</p>
+                <p>01-581072</p>
+                <p>Careers</p>
+                <p>Press</p>
+            </div>
+            
+            <!-- Right Column -->
+            <div class="footer-column">
+                <h4>Headquarters</h4>
+                <p>Baneshwor, Sankhamul</p>
+                <h4>Navigation</h4>
+                <p>Home</p>
+                <p>Blog</p>
+                <p>Service</p>
+                <p>About Us</p>
+            </div>
+        </div>
 
-            <!-- About Section -->
-            <!-- <div class="footer-about">
-                <h3>About Us</h3>
-                <p>Innova Real Estate is an experienced and knowledgeable team in Dubai, UAE that specializes in providing quality and personalized services to our customers. We help you make informed decisions about your Real Estate investments.</p>
-                <p>Contact us for Residential and Commercial Properties, Sales and Rentals, Property Management, and Property Appraisal. (RERA No.: 30372)</p>
+        <!-- Bottom Footer -->
+        <div class="footer-bottom">
+            <p>&copy; 2024 Jagga</p>
+            <div class="footer-links">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms & Conditions</a>
+            </div>
+            <div class="footer-social">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </footer>
+
 </body>
-</html> -->
+</html>

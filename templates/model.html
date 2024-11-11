@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Details Form</title>
+    <!-- Font Awesome CDN for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/model.css') }}">
+</head>
+<body>
+    
+    {% include 'navbar.html' %}
+
+    <div class="form-container">
+        <h2>Property Details</h2>
+        <p>Provide details about the property to get an accurate cost prediction:</p>
+        <form id="propertyForm" action="{{ url_for('predict') }}" method="post">
+            
+            <!-- Property Type -->
+            <div class="form-group">
+                <label for="propertyType"><i class="fas fa-building"></i> Property Type</label>
+                <select id="propertyType" name="propertyType" required>
+                    <option value="disabled" disabled selected>Select Property Type</option>
+                    <option value="1">Flat</option>
+                    <option value="2">House</option>
+                    <option value="3">Land</option>
+                    <option value="4">Office Space</option>
+                    <option value="5">Shop</option>
+                </select>
+            </div>
+
+            <!-- Listing Type -->
+            <div class="form-group">
+                <label for="listingType"><i class="fas fa-list"></i> Listing Type</label>
+                <select id="listingType" name="listingType" required>
+                    <option value="disabled" disabled selected>Select Listing Type</option>
+                    <option value="0">Lease</option>
+                    <option value="1">Rent</option>
+                    <option value="2">Sell</option>
+                </select>
+            </div>
+
+            <!-- City -->
+            <div class="form-group">
+                <label for="city"><i class="fas fa-map-marker-alt"></i> City</label>
+                <select id="city" name="city" required>
+                    <option value="disabled" disabled selected>Select City</option>
+                    <option value="1">Kathmandu</option>
+                    <option value="2">Lalitpur</option>
+                    <option value="0">Bhaktapur</option>
+                </select>
+            </div>
+
+            <!-- Address -->
+            <div class="form-group">
+                <label for="address"><i class="fas fa-address-card"></i> Address</label>
+                <select id="address" name="address" required>
+                    <option value="disabled" disabled selected>Select Address</option>
+                    <option value="0">Balaju</option>
+                    <option value="1">Balkhu</option>
+                    <option value="2">Balkot</option>
+                    <option value="3">Baluwatar</option>
+                    <option value="4">Baneshwor</option>
+                    <option value="5">Baniyatar</option>
+                    <option value="6">Bhaisepati</option>
+                    <option value="7">Bhangal</option>
+                    <option value="8">Boudha</option>
+                    <option value="9">Budhanilkantha</option>
+                    <option value="10">Chabahil</option>
+                    <option value="11">Chandragiri</option>
+                    <option value="12">Changunarayan</option>
+                    <option value="13">Chapali</option>
+                    <option value="14">Chovar</option>
+                    <option value="15">Dhapakhel</option>
+                    <option value="16">Dhapasi</option>
+                    <option value="17">Duwakot</option>
+                    <option value="18">Godawari</option>
+                    <option value="19">Gokarneshwor</option>
+                    <option value="20">Golfutar</option>
+                    <option value="21">Gongabu</option>
+                    <option value="22">Hattiban</option>
+                    <option value="23">Hattigauda</option>
+                    <option value="24">Imadol</option>
+                    <option value="25">Jawalakhel</option>
+                    <option value="26">Jorpati</option>
+                    <option value="27">Kalanki</option>
+                    <option value="28">Kapan</option>
+                    <option value="29">Kirtipur</option>
+                    <option value="30">Kupondole</option>
+                    <option value="31">Lazimpat</option>
+                    <option value="32">Lubhu</option>
+                    <option value="33">Maharajgunj</option>
+                    <option value="34">Matatirtha</option>
+                    <option value="35">Mulpani</option>
+                    <option value="36">Naya Bazar</option>
+                    <option value="37">Pasikot</option>
+                    <option value="38">Pepsicola</option>
+                    <option value="39">Pulchowk</option>
+                    <option value="40">Ramkot</option>
+                    <option value="41">Ranibari</option>
+                    <option value="42">Sallaghari</option>
+                    <option value="43">Samakhusi</option>
+                    <option value="44">Sanepa</option>
+                    <option value="45">Sano Bharyang</option>
+                    <option value="46">Satdobato</option>
+                    <option value="47">Sitapaila</option>
+                    <option value="48">Sukedhara</option>
+                    <option value="49">Sunakothi</option>
+                    <option value="50">Sundarbasti</option>
+                    <option value="51">Suryabinayak</option>
+                    <option value="52">Thankot</option>
+                    <option value="53">Tokha</option>
+                </select>
+            </div>
+
+            <!-- Area Input Fields -->
+            <div class="form-group">
+                <label for="areaInAana"><i class="fas fa-ruler-combined"></i> Area (in Aana)</label>
+                <input type="number" id="areaInAana" name="areaInAana" placeholder="Enter area in Aana" required>
+            </div>
+
+            <!-- Bedroom and Bathroom -->
+            <div class="form-row">
+                <div class="form-group half-width">
+                    <label for="bedroom"><i class="fas fa-bed"></i> Bedroom</label>
+                    <input type="number" id="bedroom" name="bedroom" min="1" max="8" placeholder="Number of bedrooms" required>
+                </div>
+                <div class="form-group half-width">
+                    <label for="bathroom"><i class="fas fa-bath"></i> Bathroom</label>
+                    <input type="number" id="bathroom" name="bathroom" min="1" max="8" placeholder="Number of bathrooms" required>
+                </div>
+            </div>
+
+            <!-- Floors and Parking -->
+            <div class="form-row">
+                <div class="form-group half-width">
+                    <label for="floors"><i class="fas fa-layer-group"></i> Floors</label>
+                    <input type="number" id="floors" name="floors" min="1" max="5" placeholder="Number of floors" required>
+                </div>
+                <div class="form-group half-width">
+                    <label for="parking"><i class="fas fa-parking"></i> Parking</label>
+                    <input type="number" id="parking" name="parking" min="1" max="8" placeholder="Parking Spaces" required>
+                </div>
+            </div>
+
+            <!-- Road Type -->
+            <div class="form-group">
+                <label for="roadType"><i class="fas fa-road"></i> Road Type</label>
+                <select id="roadType" name="roadType" required>
+                    <option value="disabled" disabled selected>Select Road Type</option>
+                    <option value="1">Blacktopped</option>
+                    <option value="2">Concrete</option>
+                    <option value="3">Gravelled</option>
+                    <option value="4">Paved</option>
+                    <option value="5">Soil Stabilized</option>
+                    <option value="0">Alley</option>
+                </select>
+            </div>
+
+            <!-- Garden -->
+            <div class="form-group">
+                <label for="garden"><i class="fas fa-seedling"></i> Garden</label>
+                <select id="garden" name="garden" required>
+                    <option value="disabled" disabled selected>Select Garden Feature</option>
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+            </div>
+
+            <button type="submit" class="submit-btn">Submit Details</button>
+        </form>
+
+        {% if output %}
+        <div class="output-section">
+            <h3>The Predicted Price is:</h3>
+            <p> NPR {{ output }}</p>
+        </div>
+    {% endif %}
+
+    </div>
+
+    <!-- <script>
+        // Clears the output when the page is loaded (after a refresh)
+        window.onload = function() {
+            var outputElement = document.querySelector('.output-section');
+            if (outputElement) {
+                outputElement.style.display = 'none';  // Hide the previous output
+            }
+        }
+    </script> -->
+    
+
+
+
+</body>
+</html>

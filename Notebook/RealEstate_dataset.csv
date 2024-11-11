@@ -1,301 +1,301 @@
-,Property Type,Price,City,Bedroom,Bathroom,Floors,Parking,Face,Area,Build Area,Road Type,Road Width,Road,Amenities,category,Year
-0,Apartment,150000,Lalitpur,3,3,0.0,1,South,2000 Sq. Feet,1800 Sq. Feet, Blacktopped,26 Feet ,26 Feet / Blacktopped,"['Water Supply', 'Garden', 'Maintenance', 'Balcony', 'Wifi', 'Electricity Backup', 'Air Condition', 'Gym', 'Lift', 'Parking', 'Garage', 'TV Cable', 'Microwave', 'Intercom', 'Washing Machine', 'Kids Playground', 'Swimming Pool', 'Drainage', 'Internet', 'Security Staff', 'Modular Kitchen']",Rent,2072.0
-1,House,31000000,Kathmandu,4,4,2.0,1,East,0-4.2-0-0 Aana,N/A Aana, Blacktopped,14 Feet ,14 Feet / Blacktopped,"['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Deck', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Well']",Sale,2076.0
-2,House,20000000,Lalitpur,5,2,4.0,1,East,0-4-0-0 Sq. Feet,0-4-0-0 Sq. Feet, Gravelled,15 Feet ,15 Feet / Gravelled,"['Water Tank', 'Frontyard', 'Parking', 'Frontyard']",Sale,2076.0
-3,House,22500000,Kathmandu,6,5,3.0,1,East,3.1 Aana,N/A Aana, Gravelled,14 Feet ,14 Feet / Gravelled,"['Garage', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Supply']",Sale,2076.0
-4,House,400000000,Kathmandu,6,6,3.0,20,East,4.9.0.0 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water']",Sale,2073.0
-5,House,150000,Lalitpur,3,4,2.0,0,South West,8 Aana,N/A Sq. Feet,,0 Feet,0 Feet,"['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-6,House,49000000,Kathmandu,6,6,3.0,2,South,5.3 Aana,N/A Aana, Blacktopped,14 Feet ,14 Feet / Blacktopped,[],Sale,2074.0
-7,House,18000000,Lalitpur,4,3,2.5,1,South,0-3-0-0 Aana,650 Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,2076.0
-8,House,24000000,Kathmandu,4,3,2.0,1,East,0-4-0-0 Aana,N/A Aana, Blacktopped,14 Feet ,14 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",Sale,2076.0
-9,Flat,15000,Kathmandu,2,1,,1,South East,1200 Sq. Feet,N/A Aana, Blacktopped,12 Feet ,12 Feet / Blacktopped,[],Rent,2017.0
-10,House,34000000,Kathmandu,6,6,3.0,2,North East,5.5 Aana,N/A Aana, Blacktopped,30 Feet ,30 Feet / Blacktopped,"['Garage', 'Parking']",Sale,2076.0
-11,House,19000000,Lalitpur,4,3,3.0,0,South East,0-3-0-3 Aana,N/A Sq. Feet, Gravelled,10 Feet ,10 Feet / Gravelled,[],Sale,
-12,House,30000000,Lalitpur,4,4,3.0,2,North,0-4-0-0 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,[],Sale,
-13,Land,3000000,Kathmandu,0,0,,0,South,12.02 Aana,N/A Aana,,21 Feet,21 Feet,[],Sale,
-14,Business,750000,Kathmandu,0,0,,0,East,4 Aana,N/A Aana,,0 Feet,0 Feet,[],Sale,
-15,Land,2150000,Kathmandu,0,0,,0,West,4 Aana,N/A Sq. Feet,,12 Feet,12 Feet,[],Sale,
-16,House,12500000,Kathmandu,6,0,,0,North,0-2-3-0 Aana,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-17,House,40000000,Lalitpur,6,4,,3,East,0-12-0-0 Aana,0-6-0-0 Aana,,10 Feet,10 Feet,"['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply']",Sale,2069.0
-18,Land,11000000,Kathmandu,0,0,,0,North,0-9-3-0 Aana,N/A Aana,,32 Feet,32 Feet,[],Sale,
-19,House,20000000,Jhapa,4,1,2.0,3,South,10 Aana,N/A Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Sale,
-20,House,17000000,Kathmandu,5,3,3.0,1,East,3.75 Aana,N/A Aana, Paved,12 Feet ,12 Feet / Paved,"['Balcony', 'Parking', 'Solar Water', 'Drainage', 'Water Supply']",Sale,
-21,House,34500000,Kathmandu,6,3,2.0,2,North East,4 Aana,3 1/2 Aana,,0 Feet,0 Feet,[],Sale,2000.0
-22,House,9500000,Kathmandu,4,0,,0,South,4 Aana,N/A Sq. Feet, Soil Stabilized,15 Feet ,15 Feet / Soil Stabilized,"['TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-23,House,72500000,Kathmandu,5,2,3.0,5,East,13 Aana,13 Aana,,12 Feet,12 Feet,"['Garage', 'Balcony', 'Frontyard', 'Drainage', 'Water Supply']",Sale,
-24,Land,1200000,Kathmandu,0,0,,0,North,0-5-0-0 Aana,0 Aana, Gravelled,20 Feet ,20 Feet / Gravelled,[],Sale,
-25,Apartment,30000,Lalitpur,2,1,,1,East,790 Sq. Feet,790 Sq. Feet, Blacktopped,11 Meter ,11 Meter / Blacktopped,"['Swimming Pool', 'Modular Kitchen', 'Water Supply', 'Electricity Backup', 'Garage', 'Balcony', 'Garden', 'Water Tank', 'Kids Playground', 'Gym', 'Lift']",Rent,
-26,Land,2400000,Kathmandu,0,0,,0,East,0-5-0-0 Aana,0 Aana, Blacktopped,12 Feet ,12 Feet / Blacktopped,[],Sale,
-27,Land,8500000,Kathmandu,0,0,,0,South,0-5-2-0 Aana,N/A Aana,,13 Feet,13 Feet,[],Sale,
-28,Land,280000,Bara,0,0,,0,East,0-3-0-0 Kattha,N/A Aana, Soil Stabilized,0 Feet ,0 Feet / Soil Stabilized,[],Sale,
-29,House,80000000,Pokhara,5,6,,3,East,12 Aana,N/A Sq. Feet,,0 Feet,0 Feet,[],Sale,2065.0
-30,House,560000,Kathmandu,0,0,,12,North,20 Sq. Feet,N/A Sq. Feet,,0 Feet,0 Feet,[],Rent,
-31,House,4500000,Parsa,24,22,4.0,3,East,43 Dhur,16000 Sq. Feet, Blacktopped,30 Feet ,30 Feet / Blacktopped,['Balcony'],Sale,
-32,House,26000000,Lalitpur,5,4,,0,North,4 Aana,N/A Sq. Feet, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking', 'Store Room']",Sale,
-33,House,105000000,Kathmandu,6,5,3.0,3,East,0-12-0-0 Aana,N/A Aana, Blacktopped,16 Feet ,16 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet', 'Kids Playground']",Sale,
-34,House,17500000,Kathmandu,0,0,3.0,0,West,4 Aana,N/A Sq. Feet,,16 Feet,16 Feet,[],Sale,
-35,House,37000000,Pokhara,7,5,3.0,3,South East,6.5 Aana,6.5 Aana, Gravelled,20 Feet ,20 Feet / Gravelled,"['Garage', 'Backyard', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Kids Playground', 'Parking', 'Store Room']",Sale,2074.0
-36,Land,3000000,Lalitpur,0,0,,0,West,0-3-3-1 Aana,N/A Aana, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-37,Flat,25000,Kathmandu,0,0,,0,West,700 Sq. Feet,N/A Sq. Feet, Blacktopped,10 Feet ,10 Feet / Blacktopped,[],Rent,
-38,House,19500000,Lalitpur,5,3,2.5,2,East,0-3-2-0 Aana,2000. Aana, Gravelled,13 Feet ,13 Feet / Gravelled,"['Balcony', 'Fencing', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",Sale,2076.0
-39,Land,68000000,Kathmandu,0,0,,0,East,8 Aana,N/A Aana, Blacktopped,30 Feet ,30 Feet / Blacktopped,[],Sale,
-40,Land,4000000,Lalitpur,0,0,,0,North,0-5-2-0 Aana,N/A Aana, Gravelled,12 Feet ,12 Feet / Gravelled,[],Sale,
-41,Land,3500000,Kathmandu,0,0,,0,East,0-4-2-0 Ropani,N/A Aana, Soil Stabilized,10 Feet ,10 Feet / Soil Stabilized,[],Sale,
-42,House,140000000,Lalitpur,5,4,4.0,7,East,2-4-0-0 Ropani,N/A Sq. Feet,,20 Feet,20 Feet,"['Garage', 'Lawn', 'Backyard', 'Deck', 'Fencing', 'Frontyard', 'Balcony', 'Garden', 'Wifi', 'Drainage', 'Modular Kitchen', 'TV Cable', 'Water Supply']",Sale,
-43,Land,700000,Lalitpur,0,0,,0,East,0-4-1-2 Aana,N/A Aana, Paved,0 Feet ,0 Feet / Paved,[],Sale,
-44,House,45000,Kathmandu,4,4,,0,North East,3.5 Aana,N/A Sq. Feet,,6 Meter,6 Meter,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-45,House,36000000,Kathmandu,4,5,3.0,3,West,7 Aana,N/A Aana, Soil Stabilized,30 Feet ,30 Feet / Soil Stabilized,"['Garage', 'Garden', 'Balcony', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Store Room', 'Parking']",Sale,2075.0
-46,Land,350000,Lalitpur,0,0,,0,East,27 Aana,27 Aana, Gravelled,24 Feet ,24 Feet / Gravelled,[],Sale,
-47,Flat,25000,Lalitpur,2,1,,0,North,800 Sq. Feet,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,"['Balcony', 'TV Cable', 'Water Supply']",Rent,
-48,Land,600000,Pokhara,0,0,,0,West,20*40 Haat,N/A Sq. Feet, Soil Stabilized,15 Feet ,15 Feet / Soil Stabilized,[],Sale,
-49,House,35000000,Lalitpur,5,4,3.0,0,South,3 Aana,N/A Sq. Feet,,20 Feet,20 Feet,"['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-50,House,100000,Kathmandu,0,0,,0,West,4 Aana,N/A Sq. Feet, Blacktopped,13 Feet ,13 Feet / Blacktopped,[],Rent,
-51,Land,1500000,Pokhara,0,0,,0,East,30/36 Haat,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-52,House,20000000,Lalitpur,6,3,2.5,2,North,0-3-2-0 Aana,1900 Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']",Sale,2076.0
-53,House,15000,Kathmandu,2,1,,1,North,3 Aana,2.75 Aana, Gravelled,13 Feet ,13 Feet / Gravelled,"['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Well', 'Water Tank', 'Internet', 'Kids Playground', 'Parking']",Rent,2019.0
-54,House,13800000,Kathmandu,2,1,,0,East,0-4-3-0 Ropani,N/A Aana, Soil Stabilized,12 Feet ,12 Feet / Soil Stabilized,"['Garage', 'Wifi', 'Drainage', 'Water Well', 'Water Supply', 'Modular Kitchen', 'TV Cable']",Sale,
-55,Business,3500000,Kathmandu,0,0,,0,South,1000 Sq. Feet,N/A Sq. Feet,,0 Feet,0 Feet,[],Sale,
-56,House,36000000,Kathmandu,5,5,3.0,1,East,6 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Garden', 'Water Supply', 'Water Tank', 'Solar Water', 'Drainage']",Sale,2070.0
-57,House,26500000,Kathmandu,0,0,3.0,0,East,3.5 Aana,N/A Sq. Feet,,12 Feet,12 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-58,Land,38000,Kathmandu,0,0,,0,East,14 Aana,N/A Aana,,20 Feet,20 Feet,[],Rent,
-59,House,14000000,Kathmandu,8,0,3.0,0,West,0-2-2-0 Aana,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-60,Land,600000,Jhapa,0,0,,0,East,18 Kattha,N/A Kattha, Blacktopped,60 Feet ,60 Feet / Blacktopped,[],Sale,
-61,House,20000000,Kathmandu,4,2,3.0,0,East,5 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",Sale,
-62,Land,7500000,Kathmandu,0,0,,0,East,12.5 Aana,N/A Sq. Feet, Gravelled,18 Feet ,18 Feet / Gravelled,[],Sale,
-63,Land,380000,Dharan,0,0,,0,West,10 Dhur,N/A Sq. Feet, Soil Stabilized,15 Feet ,15 Feet / Soil Stabilized,[],Sale,
-64,Land,22000000,Kathmandu,0,0,,0,North,0-5-1-3 Aana,N/A Aana, Blacktopped,30 Feet ,30 Feet / Blacktopped,[],Sale,
-65,Apartment,35000000,Lalitpur,0,0,,0,North East,1400 Sq. Feet,N/A Aana,,20 Feet,20 Feet,[],Sale,
-66,Land,3000000,Lalitpur,0,0,,0,East,0-7-3-0 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Drainage', 'Water Supply', 'Parking', 'Store Room']",Sale,
-67,House,13000000,Kathmandu,6,2,3.0,1,West,0-3-0-0 Aana,0-2-2-0 Aana, Blacktopped,23 Feet ,23 Feet / Blacktopped,"['Electricity Backup', 'Water Supply', 'Water Tank', 'Water Well', 'Balcony']",Sale,2001.0
-68,House,29000000,Bhaktapur,3,3,2.0,2,North,4.5 Aana,2200 Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Parking', 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet']",Sale,2070.0
-69,House,42000000,Kathmandu,8,7,4.0,4,South East,0-6-0-0 Aana,0-4-0-0 Aana, Paved,20 Feet ,20 Feet / Paved,"['Lawn', 'Garage', 'Backyard', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage']",Sale,
-70,House,22000000,Kathmandu,11,0,,0,West,0-3-5-0 Aana,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-71,Land,650000,Pokhara,0,0,,0,North,2 Ropani,N/A Aana,,0 Feet,0 Feet,[],Sale,
-72,House,16000000,Kathmandu,7,6,5.0,4,South East,3.1 Aana,N/A Sq. Feet, Gravelled,14 Feet ,14 Feet / Gravelled,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",Sale,
-73,House,24000000,Kathmandu,0,0,3.0,0,South,4 Aana,N/A Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-74,House,28000000,Lalitpur,12,5,,1,North,0-4-2-0 Aana,N/A Sq. Feet,,13 Feet,13 Feet,['Water Supply'],Sale,
-75,Apartment,16500000,Lalitpur,3,2,10.0,0,East,1350 Sq. Feet,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-76,Land,2400000,Bhaktapur,0,0,,0,South,7 Aana,N/A Sq. Feet,,18 Feet,18 Feet,[],Sale,
-77,House,102500000,Kathmandu,5,0,2.0,0,East,1-3-0-0 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Parking', 'Balcony', 'Microwave', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Jacuzzi', 'Lawn', 'Fencing', 'Swimming Pool', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'Lift', 'CCTV', 'Wifi', 'Gym', 'Backyard']",Sale,
-78,Land,2700000,Lalitpur,0,0,,0,South East,8 Aana,N/A Aana, Gravelled,14 Feet ,14 Feet / Gravelled,[],Sale,
-79,Business,240000000,Kathmandu,0,0,,0,West,0-22-0-0 Aana,N/A Sq. Feet,,6 Meter,6 Meter,[],Sale,
-80,House,29900000,Kathmandu,7,7,3.0,1,South East,4 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Garage', 'Water Well', 'Internet', 'Store Room', 'Water Tank', 'Solar Water', 'Drainage', 'Wifi', 'Water Supply', 'TV Cable']",Sale,2076.0
-81,House,350000,Kathmandu,0,0,,0,South East,1-8-0-0 Ropani,N/A Sq. Feet,,20 Feet,20 Feet,"['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-82,Land,1700000,Kathmandu,0,0,,0,South,0-4-3-0 Aana,N/A Aana, Gravelled,14 Feet ,14 Feet / Gravelled,[],Sale,
-83,House,31500000,Lalitpur,4,4,3.0,1,South,4.3 Aana,N/A Aana, Paved,12 Feet ,12 Feet / Paved,"['Garage', 'Garden', 'Balcony', 'Solar Water', 'Water Supply', 'Store Room', 'Electricity Backup']",Sale,2012.0
-84,Land,2100000,Kathmandu,0,0,,0,West,2-13-0-0 Ropani,N/A Sq. Feet,,16 Feet,16 Feet,[],Sale,
-85,House,18000000,Kathmandu,6,4,3.0,2,East,3 Aana,2 Aana, Gravelled,13 Feet ,13 Feet / Gravelled,['Air Condition'],Sale,2019.0
-86,Land,1200000,Bhaktapur,0,0,,0,North East,0-6-0-0 Aana,N/A Aana, Soil Stabilized,0 Feet ,0 Feet / Soil Stabilized,[],Sale,
-87,Land,1450000,Bhaktapur,0,0,0.0,0,South,0-4-3-0 Ropani,N/A Sq. Feet, Soil Stabilized,12 Feet ,12 Feet / Soil Stabilized,[],Sale,
-88,Land,3400000,Kathmandu,0,0,,0,North,7 Aana,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-89,House,55000000,Kathmandu,4,3,2.0,3,South East,0-8-0-0 Aana,N/A Aana, Blacktopped,14 Feet ,14 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",Sale,
-90,House,120000,Lalitpur,5,4,,4,East,10 Aana,N/A Aana,,0 Feet,0 Feet,[],Rent,
-91,Land,8500000,Kathmandu,0,0,,0,South,0-8-0-1 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,[],Sale,
-92,House,105000000,Kathmandu,5,6,3.0,10,West,32 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Garden', 'Frontyard', 'Garage', 'Fencing', 'Water Supply', 'Solar Water', 'TV Cable', 'Water Tank', 'Water Well', 'Washing Machine', 'Balcony', 'Backyard', 'Lawn', 'Microwave', 'Modular Kitchen']",Sale,2074.0
-93,House,13000000,Lalitpur,4,2,1.5,1,North East,0-3-0-0 Aana,750 Aana, Gravelled,13 Feet ,13 Feet / Gravelled,"['Drainage', 'Water Supply', 'Water Tank', 'Parking']",Sale,2076.0
-94,House,13000000,Kathmandu,2,1,,0,West,4 Aana,N/A Sq. Feet, Soil Stabilized,15 Feet ,15 Feet / Soil Stabilized,"['TV Cable', 'Wifi', 'Water Supply', 'Water Tank']",Sale,
-95,Land,1900000,Kathmandu,0,0,,0,West,5 Aana,N/A Aana, Soil Stabilized,12 Feet ,12 Feet / Soil Stabilized,[],Sale,
-96,House,27000000,Kathmandu,6,6,3.0,2,East,4.5 Aana,N/A Aana, Gravelled,14 Feet ,14 Feet / Gravelled,"['Parking', 'Garage']",Sale,2076.0
-97,House,150000,Lalitpur,5,3,3.0,3,South,12 Sq. Feet,N/A Sq. Feet,,15 Feet,15 Feet,"['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']",Rent,
-98,House,50000000,Kathmandu,7,4,2.0,1,South East,0-7-0-0 Aana,1000 Sq. Feet, Concrete,10 Feet ,10 Feet / Concrete,"['Lawn', 'Balcony', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Electricity Backup', 'Parking', 'Store Room']",Sale,2076.0
-99,House,85000,Bhaktapur,0,0,3.0,0,East,12 Aana,8 Aana, Soil Stabilized,12 Feet ,12 Feet / Soil Stabilized,[],Rent,2019.0
-100,House,17000000,Kathmandu,4,4,3.0,0,North,3.1 Aana,N/A Sq. Feet,,0 Feet,0 Feet,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-101,Land,1600000,Kathmandu,0,0,,0,East,0-3-0-0 Aana,N/A Aana, Gravelled,12 Feet ,12 Feet / Gravelled,[],Sale,
-102,House,150000,Kathmandu,5,4,3.0,0,South East,1 Ropani,N/A Sq. Feet,,15 Feet,15 Feet,"['Lawn', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-103,Land,330000,Jhapa,0,0,,0,North,10 Dhur,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-104,House,35000000,Kathmandu,0,0,,0,North,7 Aana,N/A Sq. Feet, Gravelled,15 Feet ,15 Feet / Gravelled,[],Sale,
-105,House,250000,Kathmandu,5,4,,0,East,25 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-106,Land,3200000,Kathmandu,0,0,,0,East,10 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,[],Sale,
-107,Land,2300000,Kathmandu,0,0,,0,East,12 Aana,N/A Sq. Feet,,13 Feet,13 Feet,[],Sale,
-108,House,14500000,Lalitpur,0,0,,0,West,3 Aana,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-109,Business,62000000,Dhading,0,0,,0,South,4-3-0-0 Ropani,N/A Sq. Feet,,25 Feet,25 Feet,[],Sale,
-110,House,26000000,Kathmandu,4,3,2.5,0,North,0-3-2-0 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Water Well', 'Electricity Backup', 'Parking']",Sale,2076.0
-111,House,66000000,Kathmandu,5,5,3.0,4,South East,14 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Garage', 'Air Condition', 'Lawn', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Wifi', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room', 'Security Staff']",Sale,2071.0
-112,House,27500000,Kathmandu,10,3,3.0,2,South,0-4-1-0 Aana,N/A Sq. Feet, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply']",Sale,2076.0
-113,Flat,13000,Kathmandu,0,0,,0,North,700 Sq. Feet,N/A Sq. Feet, Blacktopped,12 Feet ,12 Feet / Blacktopped,[],Rent,
-114,House,43500000,Kathmandu,6,0,3.0,0,West,0-3-2-1 Aana,N/A Sq. Feet,,20 Feet,20 Feet,"['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-115,Land,5700000,Kathmandu,0,0,,0,East,4 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-116,Land,5700000,Kathmandu,0,0,,0,East,1-0-0-0 Ropani,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-117,House,51000000,Kathmandu,0,0,3.0,0,South,8 Aana,N/A Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,"['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",Sale,
-118,House,6100000,Kathmandu,0,0,3.0,0,North,0-3-0-1 Aana,N/A Aana, Blacktopped,16 Feet ,16 Feet / Blacktopped,[],Sale,
-119,Land,6000000,Kathmandu,0,0,0.0,0,East,0-3-0 Sq. Feet,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-120,House,350000,Kathmandu,0,0,5.0,0,South,8 Aana,8000 Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,"['Water Supply', 'Water Well', 'Frontyard']",Rent,
-121,Land,725000,Bhaktapur,0,0,,0,East,14 Aana,N/A Sq. Feet,,13 Feet,13 Feet,[],Sale,
-122,Land,675000,Kathmandu,0,0,,0,West,0-5-3-0 Aana,N/A Sq. Feet, Soil Stabilized,10 Feet ,10 Feet / Soil Stabilized,[],Sale,
-123,Land,220000,Mahottari,0,0,0.0,0,East,10935 Sq. Feet,10935 Sq. Feet, Soil Stabilized,6 Meter ,6 Meter / Soil Stabilized,[],Sale,
-124,House,27500000,Kathmandu,6,4,4.0,0,South,4 Aana,N/A Sq. Feet,,12 Feet,12 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-125,House,40000000,Kathmandu,7,8,4.0,2,East,4 Aana,N/A Aana, Paved,14 Feet ,14 Feet / Paved,['Garage'],Sale,2075.0
-126,Land,1250000,Lalitpur,0,0,,0,East,6.5 Aana,N/A Aana, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-127,Flat,17000,Morang,3,2,,0,West,900 Sq. Feet,N/A Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Rent,
-128,House,65000000,Kathmandu,5,4,2.0,1,East,0-8-0-0 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']",Sale,2076.0
-129,House,21000000,Lalitpur,10,5,,2,North East,0-4-2-0 Aana,N/A Sq. Feet,,16 Feet,16 Feet,['Water Supply'],Sale,
-130,House,300000,Lalitpur,8,6,,5,West,3 Ropani,N/A Sq. Feet,,0 Feet,0 Feet,"['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-131,House,150000000,Kathmandu,0,0,3.5,0,North,0-6-2-0 Aana,4000 Sq. Feet,,20 Feet,20 Feet,"['Garage', 'Garden', 'Water Supply', 'TV Cable', 'Water Well', 'Drainage', 'Water Tank']",Sale,2065.0
-132,Land,2000000,Kathmandu,0,0,,0,West,5 Aana,N/A Sq. Feet, Gravelled,12 Feet ,12 Feet / Gravelled,[],Sale,
-133,House,72500000,Kathmandu,7,6,,0,South West,14 Aana,N/A Sq. Feet,,20 Feet,20 Feet,"['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-134,Business,3000000,Kathmandu,0,0,,0,South,400 Sq. Feet,N/A Sq. Feet, Blacktopped,35 Feet ,35 Feet / Blacktopped,"['Air Condition', 'TV Cable']",Sale,
-135,Land,143750001250000,Chitwan,0,0,,0,East,11:10 Kattha,11:10 Kattha, Soil Stabilized,10 Feet ,10 Feet / Soil Stabilized,[],Sale,
-136,Office Space,22000,Lalitpur,3,0,,0,North,500 Sq. Feet,N/A Sq. Feet,,13 Feet,13 Feet,[],Rent,
-137,Business,450000,Kathmandu,0,0,,0,North,500 Sq. Feet,N/A Sq. Feet,,0 Feet,0 Feet,[],Sale,
-138,House,24000000,Kathmandu,4,4,2.5,1,East,0-4-0-0 Aana,2100 Sq. Feet, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking']",Sale,2075.0
-139,House,20000000,Kathmandu,7,3,2.5,2,West,0-4-1-1 Aana,N/A Aana, Gravelled,10 Feet ,10 Feet / Gravelled,"['Balcony', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']",Sale,2067.0
-140,Flat,30000,Kathmandu,5,0,,0,North,2200 Sq. Feet,N/A Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Rent,
-141,House,18000000,Lalitpur,5,4,3.0,0,North West,3 Aana,N/A Sq. Feet, Gravelled,11 Feet ,11 Feet / Gravelled,"['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking']",Sale,
-142,Land,100000,Nawalparasi,0,0,,0,West,14 Dhur,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-143,Land,2400000,Kathmandu,0,0,,0,South East,0-4-0-0 Aana,N/A Aana, Blacktopped,16 Feet ,16 Feet / Blacktopped,[],Sale,
-144,House,55000000,Kathmandu,0,0,4.0,0,North,7 Aana,N/A Sq. Feet,,20 Feet,20 Feet,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-145,House,25000000,Kathmandu,3,3,,1,South,0-4-0-0 Aana,2300 Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Sale,
-146,Business,630000,Kathmandu,0,0,,0,South East,250 Sq. Feet,N/A Sq. Feet,,0 Feet,0 Feet,[],Sale,
-147,House,80000000,Kathmandu,4,5,,4,West,0-9-3-3 Aana,4000 Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,"['Parking', 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']",Sale,2076.0
-148,House,61500000,Kathmandu,0,0,,0,South,18 Aana,N/A Sq. Feet,,15 Feet,15 Feet,"['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-149,Land,1500000,Kathmandu,0,0,,0,East,0-3-3-1 Aana,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-150,House,18500000,Lalitpur,3,3,3.0,2,South,0-3-1-0 Aana,N/A Aana, Gravelled,13 Feet ,13 Feet / Gravelled,"['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Internet', 'Parking']",Sale,2076.0
-151,Business,600000,Kathmandu,0,0,,0,North,500 Sq. Feet,N/A Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-152,House,58500000,Kathmandu,6,6,3.0,2,East,6.5 Aana,N/A Aana, Blacktopped,16 Feet ,16 Feet / Blacktopped,"['Parking', 'Garage']",Sale,2076.0
-153,House,60000000,Kathmandu,0,0,3.0,0,East,12 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank']",Sale,
-154,House,21500000,Bhaktapur,9,1,3.0,1,West,0-6-0-0 Aana,0-3-0-0 Aana,,20 Feet,20 Feet,['Garage'],Sale,2076.0
-155,House,9000000,Lalitpur,4,1,1.0,0,West,3.2 Aana,N/A Sq. Feet, Soil Stabilized,10 Feet ,10 Feet / Soil Stabilized,"['Water Supply', 'Water Tank']",Sale,
-156,House,49500000,Lalitpur,0,0,,0,East,9 Aana,N/A Aana, Blacktopped,16 Feet ,16 Feet / Blacktopped,[],Sale,
-157,House,35000000,Kathmandu,0,0,2.0,2,South East,0-5-2-3 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Lawn', 'Balcony', 'Swimming Pool', 'Modular Kitchen']",Sale,
-158,Land,200000,Makwanpur,0,0,0.0,0,North East,4 Ropani,N/A Sq. Feet, Gravelled,4 Feet ,4 Feet / Gravelled,[],Sale,
-159,Land,2550000,Kathmandu,0,0,,0,North,16.5 Aana,N/A Sq. Feet, Soil Stabilized,15 Feet ,15 Feet / Soil Stabilized,[],Sale,
-160,Land,2600000,Kathmandu,0,0,,0,North,2-0-0-0 Ropani,N/A Aana,,14 Feet,14 Feet,[],Sale,
-161,House,14000000,Kathmandu,6,0,,0,North,4 Aana,N/A Sq. Feet, Soil Stabilized,12 Feet ,12 Feet / Soil Stabilized,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-162,House,250000,Lalitpur,5,3,3.0,2,East,13 Aana,4 Aana,,20 Feet,20 Feet,"['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']",Rent,2075.0
-163,House,21800000,Kathmandu,5,6,3.0,1,North East,3.5 Aana,N/A Aana, Blacktopped,12 Feet ,12 Feet / Blacktopped,[],Sale,2076.0
-164,Office Space,60000,Kathmandu,0,2,4.5,5,North,850 Sq. Feet,850 Sq. Feet, Blacktopped,20 Meter ,20 Meter / Blacktopped,"['Lawn', 'Drainage', 'Parking']",Rent,2076.0
-165,House,37000000,Kathmandu,6,0,,1,East,4-5 Aana,4-5 Aana,,13 Feet,13 Feet,"['Parking', 'Drainage', 'Water Tank']",Sale,2076.0
-166,House,70000000,Kathmandu,5,4,,10,East,0-22-0-0 Aana,N/A Aana, Blacktopped,16 Feet ,16 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']",Sale,
-167,Land,2700000,Kathmandu,0,0,,0,West,13 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,[],Sale,
-168,Land,15500000,Kathmandu,0,0,,0,East,0-4-0-0 Aana,N/A Aana, Blacktopped,18 Feet ,18 Feet / Blacktopped,[],Sale,
-169,Land,1500000,Bhaktapur,0,0,,0,South,1.5 Ropani,N/A Aana, Gravelled,20 Feet ,20 Feet / Gravelled,[],Sale,
-170,House,40000000,Kathmandu,9,6,4.0,3,East,9 Aana,N/A Aana, Paved,13 Feet ,13 Feet / Paved,['Parking'],Sale,2069.0
-171,House,32500000,Kathmandu,8,7,4.0,1,South East,4 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Water Supply', 'Drainage', 'Solar Water']",Sale,2076.0
-172,Land,950000,Kathmandu,0,0,,0,West,1-0-0-3 Ropani,N/A Sq. Feet, Soil Stabilized,32 Feet ,32 Feet / Soil Stabilized,[],Sale,
-173,Land,4200000,Kathmandu,0,0,,0,North,7 Aana,N/A Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-174,Land,5500000,Kathmandu,0,0,,0,South East,1-2-0-0 Aana,N/A Aana,,36 Feet,36 Feet,[],Sale,
-175,House,7500000,Kathmandu,3,1,1.0,0,North,0-2-2-0 Aana,N/A Sq. Feet, Soil Stabilized,4 Feet ,4 Feet / Soil Stabilized,[],Sale,
-176,Land,600000,Kathmandu,0,0,,0,South East,58 Aana,N/A Aana, Blacktopped,18 Feet ,18 Feet / Blacktopped,[],Sale,
-177,House,75000,Lalitpur,3,3,,1,East,5.5 Aana,N/A Aana,,0 Feet,0 Feet,"['Parking', 'Balcony', 'Garden', 'Modular Kitchen', 'Security Staff']",Rent,
-178,House,21500000,Kathmandu,5,5,3.0,1,South,3.5 Aana,N/A Aana, Gravelled,13 Feet ,13 Feet / Gravelled,['Garage'],Sale,2076.0
-179,House,70000000,Kathmandu,5,5,3.0,0,North,9 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,[],Sale,
-180,House,35000000,Pokhara,0,0,4.0,0,North West,7 Aana,N/A Sq. Feet,,15 Feet,15 Feet,[],Sale,
-181,House,30000000,Kathmandu,6,5,3.0,2,North,5 Aana,3922.08 Sq. Feet, Gravelled,14 Feet ,14 Feet / Gravelled,"['Parking', 'Water Tank', 'Solar Water', 'Water Supply', 'Drainage', 'Balcony']",Sale,2019.0
-182,Land,2900000,Kathmandu,0,0,,0,East,14 Aana,N/A Aana, Gravelled,20 Feet ,20 Feet / Gravelled,[],Sale,
-183,House,19500000,Lalitpur,4,4,2.0,1,West,0-3-2-3 Sq. Feet,710 Sq. Feet, Gravelled,20 Feet ,20 Feet / Gravelled,"['Parking', 'Store Room', 'Frontyard', 'Parking', 'Balcony', 'Water Well', 'Water Tank', 'Store Room', 'Garden', 'Water Tank', 'Drainage', 'Garage', 'Frontyard', 'Modular Kitchen', 'Garden', 'Backyard', 'Water Well']",Sale,2076.0
-184,House,75000,Kathmandu,7,7,3.0,3,South,9 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,['Parking'],Rent,2070.0
-185,Business,600000,Lalitpur,0,0,,0,South,500 Sq. Feet,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-186,House,42500000,Kathmandu,5,0,3.0,4,East,0-12-0-0 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,"['Parking', 'Lawn', 'Air Condition', 'Frontyard', 'Garage', 'Backyard', 'Garden', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Electricity Backup', 'Water Supply', 'Solar Water', 'Drainage', 'Cafeteria', 'Intercom', 'Internet', 'Kids Playground']",Sale,
-187,House,33000000,Kathmandu,0,0,3.0,3,South,0-4-2-0 Aana,N/A Sq. Feet, Gravelled,8 Feet ,8 Feet / Gravelled,[],Sale,
-188,House,40000,Lalitpur,0,0,,0,South,3 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-189,House,23000000,Kathmandu,4,3,3.0,0,South,0-5-2-2 Aana,N/A Sq. Feet,,20 Feet,20 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-190,House,10000000,Lalitpur,2,2,1.0,1,North East,3 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking']",Sale,
-191,Land,1400000,Pokhara,0,0,,0,West,19*64 Haat,N/A Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Sale,
-192,House,22500000,Kathmandu,5,5,3.0,1,South East,3.0.2 Aana,N/A Aana, Gravelled,14 Feet ,14 Feet / Gravelled,['Parking'],Sale,2076.0
-193,House,45000000,Kathmandu,5,5,3.0,1,North,6 ana Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Drainage', 'Water Tank', 'Solar Water', 'Water Supply']",Sale,
-194,Land,1000000,Lalitpur,0,0,,0,North,5 Aana,N/A Aana, Gravelled,17 Feet ,17 Feet / Gravelled,[],Sale,
-195,Flat,35000,Kathmandu,3,2,3.0,1,East,10 Aana,8 Aana,,0 Feet,0 Feet,"['Parking', 'Balcony', 'Solar Water', 'Electricity Backup']",Rent,
-196,House,145000000,Kathmandu,95,40,5.0,7,East,21 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Parking', 'Garage']",Sale,2073.0
-197,Land,9000000,Chitwan,0,0,,0,East,1 Kattha,N/A Aana,,20 Feet,20 Feet,[],Sale,
-198,House,37500000,Kathmandu,4,3,2.0,1,South East,0-5-0-0 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Internet', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup']",Sale,
-199,Land,550000,Nawalparasi,0,0,,0,West,1 Bigha,N/A Sq. Feet,,13 Feet,13 Feet,[],Sale,
-200,Land,2100000,Kirtipur,0,0,,0,South West,0-5-0-0 Aana,N/A Aana, Gravelled,13 Feet ,13 Feet / Gravelled,[],Sale,
-201,House,60000000,Kathmandu,0,0,3.0,3,East,9 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-202,Land,4500000,Kathmandu,0,0,,0,North East,12 Aana,12 Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-203,House,90000000,Kathmandu,6,3,2.0,10,West,1-0-0-0 Aana,18-0-0-0 Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Modular Kitchen', 'Garden', 'Water Supply', 'Drainage', 'Water Tank', 'Wifi', 'Water Well', 'Solar Water', 'TV Cable']",Sale,2073.0
-204,Flat,18000,Kathmandu,1,1,1.0,4,East,375 Sq. Feet,N/A Aana,,20 Feet,20 Feet,"['Parking', 'Balcony', 'Water Tank', 'Store Room']",Rent,
-205,House,60000000,Kathmandu,5,5,2.5,1,South,0-6-0-0 Aana,N/A Sq. Feet, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Intercom', 'Internet', 'Parking', 'Store Room']",Sale,
-206,Land,800000,Kathmandu,0,0,,0,South,16 Aana,N/A Sq. Feet, Gravelled,20 Feet ,20 Feet / Gravelled,[],Sale,
-207,Land,1850000,Lalitpur,0,0,,0,South,4 Aana,N/A Sq. Feet, Soil Stabilized,20 Feet ,20 Feet / Soil Stabilized,[],Sale,
-208,Land,6000000,Kathmandu,0,0,,0,West,0-7-2-0 Aana,N/A Sq. Feet, Blacktopped,14 Feet ,14 Feet / Blacktopped,[],Sale,
-209,House,25000000,Kathmandu,0,0,4.0,0,West,3 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-210,House,550000,Lalitpur,6,6,,10,South West,2 Ropani,N/A Sq. Feet,,20 Feet,20 Feet,"['Balcony', 'Garden', 'Gym', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Rent,
-211,House,400000,Lalitpur,0,5,5.0,3,North,9 Aana,16 Aana, Gravelled,1 Meter ,1 Meter / Gravelled,"['Garage', 'Balcony', 'Garden', 'Frontyard', 'Water Well']",Rent,2001.0
-212,House,20000000,Surkhet,0,0,,0,North,162 Sq. Feet,N/A Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Balcony', 'TV Cable', 'Water Well', 'Parking']",Sale,
-213,Land,4800000,Kathmandu,0,0,,0,East,8 Aana,N/A Sq. Feet,,15 Feet,15 Feet,[],Sale,
-214,Land,2350000,Lalitpur,0,0,0.0,0,South,0-3-0-0 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,[],Sale,
-215,House,40000000,Kathmandu,7,7,4.0,2,East,7 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,['Parking'],Sale,2074.0
-216,Land,3500000,Kathmandu,0,0,,0,West,0-10-0-0 Aana,N/A Aana, Blacktopped,14 Feet ,14 Feet / Blacktopped,[],Sale,
-217,House,250000000,Kathmandu,5,7,2.0,20,East,0-96-0-0 Aana,N/A Aana, Blacktopped,18 Feet ,18 Feet / Blacktopped,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Jacuzzi']",Sale,
-218,Land,7500000,Kathmandu,0,0,,0,East,0-40-0-0 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-219,House,25500000,Kathmandu,6,6,3.0,1,East,4 Aana,2700 Sq. Feet, Gravelled,13 Feet ,13 Feet / Gravelled,['Parking'],Sale,2076.0
-220,House,17500000,Kathmandu,6,2,3.0,1,East,11 Aana,4 Aana, Gravelled,20 Feet ,20 Feet / Gravelled,"['Balcony', 'Backyard', 'TV Cable', 'Water Supply', 'Solar Water', 'Water Well']",Sale,2007.0
-221,House,28500000,Kathmandu,6,6,,1,South East,0-5-2-0 Aana,N/A Aana,,20 Feet,20 Feet,[],Sale,
-222,House,100000000,Kathmandu,6,6,3.0,5,East,19 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Garage', 'Balcony', 'Backyard', 'Frontyard', 'Garden', 'Fencing', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Store Room', 'Parking', 'Security Staff', 'Kids Playground']",Sale,2069.0
-223,House,23000000,Kathmandu,3,2,3.0,3,East,0-4-5-0 Aana,4 Aana,,20 Feet,20 Feet,"['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Tank', 'Internet', 'Parking', 'Store Room']",Sale,
-224,House,11000000,Kathmandu,0,0,,0,West,3 Aana,N/A Sq. Feet, Soil Stabilized,10 Feet ,10 Feet / Soil Stabilized,"['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room']",Sale,
-225,Flat,30000,Kathmandu,2,1,,0,West,900 Sq. Feet,N/A Sq. Feet,,10 Feet,10 Feet,[],Rent,
-226,House,300000,Kathmandu,18,4,5.0,0,West,0-4-0-0 Aana,0-3-2-0 Aana, Blacktopped,18 Feet ,18 Feet / Blacktopped,"['Drainage', 'TV Cable', 'Water Supply', 'Internet']",Rent,2045.0
-227,House,18200000,Kathmandu,9,0,3.0,3,South,3.1 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-228,Land,4000000,Kathmandu,0,0,,0,South West,12 .3 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Sale,
-229,House,22500000,Kathmandu,0,0,,0,North,4 Aana,N/A Sq. Feet, Blacktopped,16 Feet ,16 Feet / Blacktopped,[],Sale,
-230,House,44500000,Kathmandu,6,5,3.0,3,South East,8.1 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,"['Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Solar Water', 'Drainage', 'Wifi', 'Balcony']",Sale,2076.0
-231,Land,200000,Makwanpur,0,0,,0,East,14 Dhur,N/A Dhur, Blacktopped,8 Meter ,8 Meter / Blacktopped,[],Sale,
-232,Land,270000,Chitwan,0,0,,0,West,0-8-5-0 Dhur,N/A Sq. Feet, Gravelled,6 Meter ,6 Meter / Gravelled,[],Sale,
-233,Land,4200000,Kathmandu,0,0,,0,West,0-26-0-0 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Drainage', 'Water Well', 'Parking']",Sale,
-234,Land,3300000,Kathmandu,0,0,,0,North,0-5-2-0 Aana,N/A Sq. Feet,,8 Meter,8 Meter,[],Sale,
-235,Office Space,850000,Kathmandu,0,1,,1,East,500sqft Sq. Feet,500 Sq. Feet, Blacktopped,25 Meter ,25 Meter / Blacktopped,"['Air Condition', 'Balcony', 'Lawn', 'Wifi', 'Water Supply', 'CCTV', 'Internet', 'Security Staff', 'Cafeteria', 'Drainage']",Sale,2005.0
-236,House,115000000,Kathmandu,0,0,3.0,0,East,2 Ropani,N/A Aana, Blacktopped,14 Feet ,14 Feet / Blacktopped,[],Sale,2069.0
-237,Land,5000000,Kathmandu,0,0,,0,South,1 Ropani,N/A Ropani, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Sale,
-238,House,11500000,Lalitpur,2,1,1.5,1,South,0-2-3-2 Aana,N/A Aana, Gravelled,13 Feet ,13 Feet / Gravelled,"['Fencing', 'Drainage', 'Water Tank', 'Water Well', 'Parking']",Sale,2076.0
-239,Land,350000,Parsa,0,0,,0,East,26 Dhur,N/A Dhur, Gravelled,26 Feet ,26 Feet / Gravelled,[],Sale,
-240,House,28500000,Lalitpur,3,5,3.0,1,South West,0-4-2-0 Aana,N/A Aana, Blacktopped,18 Feet ,18 Feet / Blacktopped,"['Balcony', 'Gym', 'Washing Machine', 'TV Cable', 'Modular Kitchen', 'Fencing', 'Frontyard']",Sale,2019.0
-241,House,21500000,Lalitpur,0,0,3.0,0,South West,0-4-2-0 Aana,N/A Sq. Feet,,10 Feet,10 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-242,House,17000000,Kathmandu,7,0,,0,East,3 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-243,House,250000,Kathmandu,17,19,,4,East,6 Aana,N/A Aana,,0 Feet,0 Feet,"['Modular Kitchen', 'Water Supply', 'CCTV', 'Balcony']",Rent,
-244,House,34000000,Kathmandu,5,0,3.0,0,South,4 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,"['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']",Sale,
-245,Land,4000000,Kathmandu,0,0,,0,South,5 Aana,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-246,Apartment,95000,Kathmandu,2,2,,0,North,1000 Sq. Feet,N/A Sq. Feet,,20 Feet,20 Feet,[],Rent,
-247,Office Space,270000,Kathmandu,0,0,,0,South East,2000 Sq. Feet,N/A Sq. Feet,,20 Feet,20 Feet,[],Rent,
-248,Land,4200000,Kathmandu,0,0,,0,West,22 Aana,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-249,House,150000,Kathmandu,8,3,3.0,2,North East,4 Aana,N/A Aana,,16 Feet,16 Feet,"['Frontyard', 'Water Supply', 'Water Tank', 'Balcony']",Rent,
-250,Land,60000000,Pokhara,0,0,,0,East,3-0-0-03 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Sale,
-251,House,75000000,Bhaktapur,0,0,5.0,0,South,0-6-2-0 Aana,7500 Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Garage', 'Balcony', 'Solar Water', 'Water Well', 'Wifi', 'Water Tank', 'Modular Kitchen', 'Water Supply', 'TV Cable', 'Drainage']",Sale,2075.0
-252,Land,130000,Itahari,0,0,,0,East,12.5 Dhur,N/A Aana, Gravelled,20 Feet ,20 Feet / Gravelled,[],Sale,
-253,House,26000000,Kathmandu,8,4,3.0,1,South,0-4-0-2 Aana,0-3-2-0 Aana, Gravelled,16 Feet ,16 Feet / Gravelled,"['Parking', 'Balcony', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet']",Sale,2075.0
-254,Land,1700000,Kathmandu,0,0,,0,South,4 Aana,N/A Aana, Soil Stabilized,10 Feet ,10 Feet / Soil Stabilized,[],Sale,
-255,Land,2700000,Kathmandu,0,0,,0,South,4.2 Aana,N/A Sq. Feet, Soil Stabilized,12 Feet ,12 Feet / Soil Stabilized,[],Sale,
-256,House,17000000,Kathmandu,6,3,2.0,2,South East,4.1 Aana,N/A Aana,,11 Feet,11 Feet,[],Sale,
-257,House,30000000,Kathmandu,0,3,3.0,1,East,0-2-0-0 Aana,N/A Aana, Blacktopped,25 Feet ,25 Feet / Blacktopped,"['Parking', 'Balcony', 'Electricity Backup', 'Water Supply', 'Lawn', 'Fencing', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Water Tank', 'Backyard']",Sale,
-258,House,48000000,Chitwan,0,0,,0,North East,25*52 Haat,N/A Sq. Feet,,6 Meter,6 Meter,[],Sale,
-259,House,38000000,Kathmandu,10,0,,3,South,7 Aana,N/A Sq. Feet,,10 Feet,10 Feet,"['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-260,Land,1200000,Kathmandu,0,0,,0,North East,4 Aana,N/A Sq. Feet,,20 Feet,20 Feet,[],Sale,
-261,House,60000000,Kathmandu,5,5,3.0,0,North East,6 Aana,N/A Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Garage', 'Parking', 'Water Supply', 'Solar Water', 'Water Tank', 'Modular Kitchen', 'Garden', 'Balcony', 'Air Condition']",Sale,2076.0
-262,House,22000000,Kathmandu,11,0,2.0,0,West,5 Aana,N/A Sq. Feet, Gravelled,15 Feet ,15 Feet / Gravelled,[],Sale,
-263,Business,800000,Kathmandu,0,0,,0,West,400 Sq. Feet,N/A Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-264,Land,350000,Sunsari,0,0,,0,South,11 Dhur,N/A Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Sale,
-265,House,20000000,Makwanpur,4,4,2.0,4,East,0-4-0-0 / 322 Aana,0-4-0-0 / 322 Aana, Paved,14 Feet ,14 Feet / Paved,"['Lawn', 'Air Condition', 'Balcony']",Sale,2019.0
-266,Land,850000,Kathmandu,0,0,,0,South,4.3 Aana,N/A Sq. Feet, Soil Stabilized,13 Feet ,13 Feet / Soil Stabilized,[],Sale,
-267,Land,1100000,Kathmandu,0,0,,0,North,14 Aana,N/A Sq. Feet, Soil Stabilized,8 Feet ,8 Feet / Soil Stabilized,[],Sale,
-268,Land,2000000,Kathmandu,0,0,,0,South,0-3-2-0 Aana,N/A Sq. Feet, Gravelled,24 Feet ,24 Feet / Gravelled,[],Sale,
-269,House,150000,Lalitpur,5,3,3.0,1,East,10 Aana,4 Aana, Blacktopped,17 Meter ,17 Meter / Blacktopped,"['Garage', 'Balcony', 'Garden', 'TV Cable', 'Water Supply', 'Water Well', 'Parking']",Rent,2012.0
-270,Land,200000,Kathmandu,0,0,,0,South East,10 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,[],Rent,
-271,House,125000,Kathmandu,0,5,3.0,3,South,0-4-2-0 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Drainage', 'Water Supply', 'Water Tank', 'Water Well']",Rent,
-272,Land,1450000,Kathmandu,0,0,,0,North East,10-0-0-0 Ropani,N/A Ropani, Gravelled,6 Meter ,6 Meter / Gravelled,"['Garden', 'Drainage', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']",Sale,
-273,House,34000000,Kathmandu,5,4,,1,South,6 Aana,N/A Aana,,14 Feet,14 Feet,"['Balcony', 'Backyard', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room']",Sale,
-274,House,41000000,Kathmandu,7,6,3.0,3,East,7 Aana,N/A Aana, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Drainage', 'Water Tank', 'Kids Playground', 'Parking', 'Security Staff', 'Store Room']",Sale,2012.0
-275,House,28000000,Kathmandu,6,4,,0,South,6.5 Aana,N/A Sq. Feet,,13 Feet,13 Feet,[],Sale,
-276,House,55000000,Kathmandu,0,0,,0,East,6.2 Aana,N/A Aana, Gravelled,10 Meter ,10 Meter / Gravelled,[],Sale,
-277,Land,200000,Kathmandu,0,0,,0,North West,10 Aana,10 Aana,,20 Feet,20 Feet,[],Lease,
-278,House,122500000,Kathmandu,23,10,,0,West,0-2-2-0 Aana,N/A Sq. Feet, Blacktopped,15 Feet ,15 Feet / Blacktopped,[],Sale,
-279,House,105000000,Kathmandu,5,5,3.0,4,South,4 Ropani,N/A Aana, Gravelled,15 Feet ,15 Feet / Gravelled,"['Parking', 'Garage', 'Balcony', 'Backyard', 'Deck', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Kids Playground', 'Store Room']",Sale,2070.0
-280,House,150000,Kathmandu,4,3,3.0,3,West,0-16-0-0 Aana,N/A Sq. Feet,,13 Feet,13 Feet,"['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']",Rent,
-281,Apartment,170000,Kathmandu,3,4,7.0,2,East,2100 Sq. Feet,N/A Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Lift', 'Parking', 'Security Staff']",Rent,
-282,House,130000000,Kathmandu,5,6,3.0,3,East,10 Aana,N/A Aana, Blacktopped,15 Feet ,15 Feet / Blacktopped,"['Parking', 'Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']",Sale,2074.0
-283,Land,2500000,Kathmandu,0,0,,0,South West,0-11-2-0 Aana,N/A Aana,,14 Feet,14 Feet,[],Sale,
-284,House,70000000,Kathmandu,7,5,3.0,8,East,15 Aana,6 Aana, Blacktopped,12 Feet ,12 Feet / Blacktopped,"['Lawn', 'Backyard', 'Balcony', 'Garden', 'Water Supply', 'Solar Water', 'Water Tank']",Sale,2059.0
-285,House,12500000,Bhaktapur,0,0,2.0,0,East,3 Aana,N/A Aana,,16 Feet,16 Feet,['Parking'],Sale,
-286,House,12500000,Lalitpur,3,1,2.0,1,West,0-5-0-0 Aana,N/A Aana, Blacktopped,16 Feet ,16 Feet / Blacktopped,"['Parking', 'Water Well', 'Water Tank', 'Backyard']",Sale,
-287,Land,1600000,Kathmandu,0,0,,0,West,4 Aana,N/A Sq. Feet, Soil Stabilized,26 Feet ,26 Feet / Soil Stabilized,[],Sale,
-288,Land,4400000,Kathmandu,0,0,,0,South,0-3-1-2 Aana,N/A Sq. Feet,,12 Feet,12 Feet,[],Sale,
-289,House,30000000,Lalitpur,4,4,,1,East,3 Aana,N/A Aana,,0 Feet,0 Feet,"['Modular Kitchen', 'Swimming Pool', 'Solar Water', 'TV Cable', 'Garden', 'Balcony']",Sale,
-290,House,17500000,Kathmandu,5,2,3.0,0,South,4 Aana,N/A Sq. Feet, Blacktopped,16 Feet ,16 Feet / Blacktopped,"['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']",Sale,
-291,Land,3800000,Chitwan,0,0,,0,West,20 Dhur,N/A Dhur, Blacktopped,9 Meter ,9 Meter / Blacktopped,"['Wifi', 'Water Supply', 'TV Cable']",Sale,
-292,House,42000000,Kathmandu,7,6,3.0,3,East,8.5 Aana,N/A Aana, Gravelled,13 Feet ,13 Feet / Gravelled,"['Frontyard', 'Garage', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Store Room']",Sale,2076.0
-293,House,15500000,Kathmandu,2,1,1.5,2,South West,0-4-0-0 Aana,N/A Aana, Gravelled,20 Feet ,20 Feet / Gravelled,[],Sale,2076.0
-294,House,11000000,Lalitpur,3,4,3.0,1,South East,3-1-1 Aana,N/A Aana, Gravelled,11 Feet ,11 Feet / Gravelled,"['Parking', 'Balcony']",Sale,2019.0
-295,Flat,20000,Kathmandu,2,1,3.0,1,West,6 Aana,N/A Aana, Gravelled,10 Feet ,10 Feet / Gravelled,"['Backyard', 'Garden', 'Water Supply', 'Internet', 'Kids Playground']",Rent,2012.0
-296,House,23500000,Lalitpur,4,3,3.0,0,South,0-3-3-0 Aana,N/A Sq. Feet, Gravelled,20 Feet ,20 Feet / Gravelled,"['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Parking']",Sale,
-297,Flat,18000,Pokhara,1,1,,1,North East,0.5.3.0 Aana,0.5.3.0 Aana, Blacktopped,14 Feet ,14 Feet / Blacktopped,"['Water Well', 'Internet']",Rent,
-298,House,34500000,Lalitpur,4,4,,1,West,0-5-1-0 Aana,2380 Sq. Feet, Blacktopped,20 Feet ,20 Feet / Blacktopped,"['Balcony', 'Fencing', 'TV Cable', 'Water Supply', 'Drainage', 'CCTV', 'Parking']",Sale,2020.0
-299,House,50000,Bhaktapur,0,0,3.0,1,East,2.75 Aana,2.75 Aana, Blacktopped,13 Feet ,13 Feet / Blacktopped,"['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']",Rent,2017.0
+,City,Price,Bedroom,Bathroom,Floors,Parking,Face,Year,Area,Road Width,Road Type,City_Place,Property_Type,Listing_Type,Garden
+12,Kathmandu,15000000,2,2,1,1,South,2074,5 Aana,12 Feet , Gravelled,Budhanilkantha,House,Sell,No
+13,Kathmandu,52500000,5,5,3,3,South East,2075,8 Aana,20 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+14,Kathmandu,26500000,6,6,3,1,East,2076,4 Aana,13 Feet , Paved,Budhanilkantha,House,Sell,No
+15,Kathmandu,25500000,6,6,3,1,East,2076,4 Aana,13 Feet , Gravelled,Sitapaila,House,Sell,No
+17,Kathmandu,18500000,4,4,,3,South,,6 Aana,13 Feet,,Thankot,House,Sell,No
+18,Kathmandu,62000000,7,4,,3,East,,10 Aana,0 Feet,,Kalanki,House,Sell,No
+22,Kathmandu,145000000,95,40,5,7,East,2073,21 Aana,20 Feet , Blacktopped,Balaju,House,Sell,No
+23,Kathmandu,55000000,5,6,3,4,South,2071,19 Aana,20 Feet , Gravelled,Budhanilkantha,House,Sell,Yes
+25,Kathmandu,37000000,6,6,3,3,South East,,6.1 Aana,32 Feet,,Dhapasi,House,Sell,No
+26,Kathmandu,102500000,6,6,3,4,East,2070,19 Aana,13 Feet , Blacktopped,Golfutar,House,Sell,Yes
+28,Kathmandu,58500000,6,6,3,2,East,2076,6.5 Aana,16 Feet , Blacktopped,Pepsicola,House,Sell,No
+32,Kathmandu,130000000,5,6,3,3,East,2074,10 Aana,15 Feet , Blacktopped,Baluwatar,House,Sell,Yes
+33,Kathmandu,105000000,8,8,4,4,East,2076,21 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+37,Kathmandu,26500000,6,6,3,2,West,2075,5 Aana,14 Feet , Blacktopped,Hattigauda,House,Sell,No
+39,Kathmandu,22500000,6,6,3,1,North East,2070,3.1 Aana,18 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+40,Kathmandu,60000000,6,6,3,4,South East,2070,11 Aana,15 Feet , Soil Stabilized,Budhanilkantha,House,Sell,No
+41,Kathmandu,250000000,6,5,3,10,East,,30 Aana,15 Feet,,Baluwatar,House,Sell,Yes
+42,Kathmandu,40000000,9,6,4,3,East,2069,9 Aana,13 Feet , Paved,Tokha,House,Sell,No
+43,Kathmandu,30000000,6,5,3,1,East,2076,3.5 Aana,15 Feet , Blacktopped,Sukedhara,House,Sell,No
+45,Kathmandu,33000000,5,6,3,2,North,2070,5 Aana,13 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+46,Kathmandu,30500000,5,5,2,1,West,2070,4 Aana,13 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+48,Kathmandu,28000000,6,6,3,1,South East,2076,4 Aana,13 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+49,Kathmandu,41000000,10,5,4,3,South East,2075,4 Aana,26 Feet , Blacktopped,Dhapasi,House,Sell,No
+50,Kathmandu,27000000,6,6,3,2,East,2076,4.5 Aana,14 Feet , Gravelled,Budhanilkantha,House,Sell,No
+51,Kathmandu,22000000,5,5,3,1,East,2076,3.1 Aana,13 Feet , Soil Stabilized,Tokha,House,Sell,No
+52,Kathmandu,37000000,5,5,3,3,South East,2071,8 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+55,Bhaktapur,29000000,3,3,2,2,North,2070,4.5 Aana,20 Feet , Blacktopped,Balkot,House,Sell,No
+58,Kathmandu,37500000,5,5,3,2,South East,,5 Aana,0 Feet,,Budhanilkantha,House,Sell,Yes
+96,Kathmandu,45000000,4,4,3,4,South West,2074,11 Aana,22 Feet,,Budhanilkantha,House,Sell,Yes
+101,Kathmandu,3000000,0,0,,0,West,,12 Aana,16 Feet , Paved,Budhanilkantha,Land,Sell,No
+103,Kathmandu,2350000,0,0,,0,South,,5 Aana,13 Feet , Blacktopped,Thankot,Land,Sell,No
+106,Kathmandu,200000,0,0,,0,North West,,10 Aana,20 Feet,,Dhapasi,Land,Lease,No
+108,Kathmandu,30000,2,1,,0,West,,4 Aana,11 Feet,,Budhanilkantha,Flat,Rent,No
+109,Kathmandu,2800000,0,0,,0,West,,18 Aana,20 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+110,Kathmandu,3500000,0,0,,0,East,,18 Aana,30 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+117,Kathmandu,2600000,0,0,,0,East,,41 Aana,15 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+119,Kathmandu,3500000,0,0,,0,South,,10 Aana,30 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+122,Kathmandu,4200000,0,0,,0,South,,8 Aana,15 Feet,,Golfutar,Land,Sell,No
+124,Kathmandu,20000,2,1,,1,West,,5.5 Aana,18 Feet,,Tokha,Flat,Rent,No
+127,Lalitpur,3500000,0,0,,0,South West,,4.5 Aana,7 Meter , Gravelled,Imadol,Land,Sell,No
+128,Kathmandu,75000,7,7,3,3,South,2070,9 Aana,13 Feet , Blacktopped,Hattigauda,House,Rent,No
+129,Kathmandu,30000,1,1,,1,East,,10 Aana,0 Feet,,Lazimpat,Flat,Rent,No
+132,Kathmandu,5700000,0,0,,0,East,,16 Aana,14 Feet,,Baluwatar,Land,Sell,No
+136,Kathmandu,2500000,0,0,,0,South,,9 Aana,15 Feet , Blacktopped,Hattigauda,Land,Sell,No
+137,Lalitpur,35000,0,0,5,2,East,2013,9 Aana,72 Feet , Blacktopped,Imadol,Office Space,Rent,No
+139,Kathmandu,250000,6,7,3,6,South East,2070,21 Aana,16 Feet , Blacktopped,Budhanilkantha,House,Rent,Yes
+140,Kathmandu,5700000,0,0,,0,East,,4 Aana,15 Feet , Blacktopped,Ranibari,Land,Sell,No
+141,Kathmandu,3000000,0,0,,0,South West,,5 Aana,13 Feet , Soil Stabilized,Golfutar,Land,Sell,No
+153,Kathmandu,3000000,0,0,,0,North,,5 Aana,0 Feet,,Bhangal,Land,Sell,No
+166,Kathmandu,20000,1,1,,1,East,,11 Aana,0 Feet,,Jorpati,Flat,Rent,No
+169,Lalitpur,60000,4,3,,2,East,,4 Aana,0 Feet,,Hattiban,House,Rent,Yes
+170,Bhaktapur,70000,4,3,,2,East,,4 Aana,0 Feet,,Sallaghari,House,Rent,No
+179,Kathmandu,3500000,0,0,,0,South West,,1 Aana,16 Feet,,Naya Bazar,Shop,Sell,No
+203,Kathmandu,200000,5,4,,4,East,,25 Aana,0 Feet,,Budhanilkantha,House,Rent,No
+211,Kathmandu,3000000,0,0,,0,East,,4 Aana,13 Feet , Soil Stabilized,Kapan,Land,Sell,No
+219,Lalitpur,900000,0,0,,0,East,,5 Aana,10 Feet,,Lubhu,Land,Sell,No
+223,Kathmandu,1300000,0,0,,0,North,,14 Aana,20 Feet , Blacktopped,Gokarneshwor,Land,Sell,No
+225,Lalitpur,300000,8,5,,7,East,,12 Aana,0 Feet,,Pulchowk,House,Rent,No
+229,Kathmandu,30000000,6,5,3,2,North,2019,5 Aana,14 Feet , Gravelled,Tokha,House,Sell,No
+230,Lalitpur,31500000,4,4,3,1,South,2012,4.3 Aana,12 Feet , Paved,Bhaisepati,House,Sell,Yes
+233,Kathmandu,57500000,4,5,3,1,South West,2076,8 Aana,20 Feet , Paved,Budhanilkantha,House,Sell,Yes
+235,Lalitpur,100000,3,3,3,3,East,2001,11 Aana,20 Feet , Blacktopped,Satdobato,House,Rent,No
+243,Kathmandu,25000000,6,4,4,2,East,2000,2.5 Aana,20 Feet , Paved,Chabahil,House,Sell,No
+256,Kathmandu,37000000,5,6,3,2,South,2076,4 Aana,20 Feet , Blacktopped,Golfutar,House,Sell,No
+259,Lalitpur,78000,4,4,,1,East,,5 Aana,0 Feet,,Jawalakhel,House,Rent,Yes
+269,Kathmandu,11000000,10,3,2,0,East,2072,4 Aana,3 Feet,,Thankot,House,Sell,No
+274,Kathmandu,2400000,0,0,,0,South East,,5 Aana,12 Feet , Gravelled,Budhanilkantha,Land,Sell,No
+276,Kathmandu,2700000,0,0,,0,West,,13 Aana,13 Feet , Blacktopped,Golfutar,Land,Sell,No
+277,Kathmandu,2300000,0,0,,0,East,,6 Aana,20 Feet , Blacktopped,Tokha,Land,Sell,No
+278,Kathmandu,37000000,5,5,3,1,South,2076,4 Aana,20 Feet , Blacktopped,Golfutar,House,Sell,No
+279,Kathmandu,45000000,6,6,3,3,East,2076,6 Aana,20 Feet , Blacktopped,Sukedhara,House,Sell,No
+283,Kathmandu,100000,5,4,,2,East,,11 Aana,0 Feet,,Maharajgunj,House,Rent,Yes
+284,Lalitpur,75000,3,3,,1,East,,5.5 Aana,0 Feet,,Bhaisepati,House,Rent,Yes
+287,Lalitpur,25000000,7,6,3,3,North East,2020,4.75 Aana,13 Feet , Blacktopped,Imadol,House,Sell,No
+289,Lalitpur,21000000,4,5,1,1,South West,2019,4 Aana,20 Feet , Gravelled,Imadol,House,Sell,No
+306,Kathmandu,1650000,0,0,,0,West,,22 Aana,28 Feet,,Gokarneshwor,Land,Sell,No
+307,Kathmandu,45000000,5,6,3,3,North East,2075,6 Aana,13 Feet , Paved,Budhanilkantha,House,Sell,Yes
+309,Lalitpur,30000,3,2,4,1,North East,2018,8 Aana,10 Feet , Blacktopped,Imadol,Flat,Rent,No
+315,Kathmandu,102500000,6,6,3,4,East,2076,19 Aana,13 Feet , Blacktopped,Golfutar,House,Sell,Yes
+319,Kathmandu,32500000,5,5,3,1,East,2076,4 Aana,13 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+321,Kathmandu,24000000,7,8,4,1,South East,2065,5 Aana,13 Feet , Gravelled,Chapali,House,Sell,No
+323,Kathmandu,2200000,1,1,1,2,East,2016,12.5 Aana,10 Feet , Gravelled,Balaju,House,Sell,Yes
+324,Kathmandu,16800000,5,5,3,1,North East,2074,3 Aana,14 Feet , Gravelled,Pasikot,House,Sell,No
+325,Kathmandu,34000000,6,6,3,2,North East,2076,5.5 Aana,30 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+330,Kathmandu,42500000,5,6,3,4,South East,2071,12 Aana,14 Feet , Gravelled,Chapali,House,Sell,Yes
+331,Kathmandu,790000,6,7,3,10,East,2065,80 Aana,24 Feet , Blacktopped,Maharajgunj,House,Rent,Yes
+333,Kathmandu,1300000,0,0,,0,East,,7.2 Aana,0 Feet,,Kapan,Land,Sell,No
+334,Kathmandu,15000000,3,3,,2,West,,8.2 Aana,4 Feet,,Matatirtha,House,Sell,Yes
+337,Lalitpur,55000,2,1,,0,East,,5 Aana,0 Feet,,Jawalakhel,Flat,Rent,No
+341,Kathmandu,15000000,4,4,3,2,West,2014,3.2 Aana,0 Feet,,Kapan,House,Sell,No
+344,Kathmandu,23500000,0,0,3,0,North East,2050,3 Aana,0 Feet , Alley,Jorpati,House,Sell,No
+355,Kathmandu,750000,0,0,,0,East,,4 Aana,0 Feet,,Samakhusi,Business,Sell,No
+356,Lalitpur,30000000,4,4,,1,East,,3 Aana,0 Feet,,Bhaisepati,House,Sell,Yes
+357,Kathmandu,81000000,6,6,3,6,East,2072,21 Aana,15 Feet , Gravelled,Pasikot,House,Sell,Yes
+358,Kathmandu,55000000,5,5,2,6,North,2069,12 Aana,22 Feet , Blacktopped,Pasikot,House,Sell,Yes
+360,Lalitpur,273258,4,0,4,1,East,2010,23 Aana,10 Feet , Paved,Kupondole,House,Rent,Yes
+365,Kathmandu,1450000,0,0,,0,South East,,4.5 Aana,13 Feet,,Chandragiri,Land,Sell,No
+367,Kathmandu,9500000,3,1,,1,South,2076,3 Aana,13 Feet , Gravelled,Chandragiri,House,Sell,No
+369,Kathmandu,2900000,0,0,,0,East,,14 Aana,20 Feet , Gravelled,Hattigauda,Land,Sell,No
+371,Lalitpur,20000000,3,3,,1,East,,3 Aana,0 Feet,,Imadol,House,Sell,No
+379,Kathmandu,200000,5,4,,2,South,,12 Aana,0 Feet,,Budhanilkantha,House,Rent,Yes
+386,Kathmandu,60000,3,4,2,2,East,2019,7 Aana,0 Feet,,Chovar,House,Rent,Yes
+399,Kathmandu,65000000,5,6,3,3,South East,2076,8 Aana,22 Feet , Blacktopped,Dhapasi,House,Sell,No
+406,Kathmandu,200000,4,4,,2,East,,5 Aana,0 Feet,,Budhanilkantha,House,Rent,Yes
+407,Kathmandu,95000,4,2,2,1,East,2019,6.5 Aana,12 Feet , Gravelled,Bhangal,House,Rent,Yes
+411,Kathmandu,250000,17,19,,4,East,,6 Aana,0 Feet,,Naya Bazar,House,Rent,No
+412,Lalitpur,60000,4,3,,2,East,,3 Aana,0 Feet,,Dhapakhel,House,Rent,Yes
+418,Kathmandu,16000,2,1,3,0,South,2009,6 Aana,7 Feet , Gravelled,Thankot,Flat,Rent,No
+421,Kathmandu,3000000,0,0,,0,South,,12.02 Aana,21 Feet,,Kapan,Land,Sell,No
+422,Lalitpur,25000,2,2,,1,East,,14 Aana,0 Feet,,Bhaisepati,Flat,Rent,No
+425,Lalitpur,60000,2,2,,1,East,,5 Aana,0 Feet,,Bhaisepati,House,Rent,Yes
+426,Kathmandu,65000,3,3,,2,East,,6 Aana,0 Feet,,Sitapaila,House,Rent,Yes
+429,Lalitpur,25000,4,2,,1,East,,3 Aana,0 Feet,,Sanepa,Flat,Rent,No
+436,Kathmandu,3500000,0,0,,0,North East,,10 Aana,15 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+438,Lalitpur,2700000,0,0,,0,South East,,8 Aana,14 Feet , Gravelled,Imadol,Land,Sell,No
+439,Lalitpur,150000,4,4,,1,East,,4.5 Aana,0 Feet,,Bhaisepati,House,Rent,Yes
+441,Lalitpur,60000,2,2,,1,East,,5 Aana,0 Feet,,Sunakothi,House,Rent,Yes
+444,Kathmandu,85000000,5,6,3,4,East,2069,13 Aana,20 Feet , Blacktopped,Samakhusi,House,Sell,No
+445,Kathmandu,160000000,6,6,3,5,East,2076,21 Aana,20 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+447,Kathmandu,61000000,12,8,4,4,East,2069,11 Aana,13 Feet , Blacktopped,Samakhusi,House,Sell,No
+448,Kathmandu,45000000,6,6,3,2,East,2075,6 Aana,15 Feet , Blacktopped,Golfutar,House,Sell,No
+449,Kathmandu,49500000,5,5,3,2,East,2073,4.5 Aana,14 Feet , Blacktopped,Chabahil,House,Sell,No
+450,Kathmandu,24000000,6,6,3,1,North East,2076,3.5 Aana,15 Feet , Blacktopped,Baniyatar,House,Sell,No
+455,Kathmandu,68000000,0,0,,0,East,,8 Aana,30 Feet , Blacktopped,Sitapaila,Land,Sell,No
+457,Kathmandu,62000000,5,6,3,4,South West,2075,17 Aana,14 Feet , Gravelled,Budhanilkantha,House,Sell,No
+459,Kathmandu,69000000,7,7,3,4,South East,,12 Aana,20 Feet , Blacktopped,Dhapasi,House,Sell,No
+460,Kathmandu,45000000,6,7,3,2,East,2075,6 Aana,15 Feet , Blacktopped,Golfutar,House,Sell,No
+468,Lalitpur,65000,4,3,,1,East,,6 Aana,0 Feet,,Sunakothi,House,Rent,No
+478,Bhaktapur,1500000,0,0,,0,North,,6 Aana,12 Feet,,Changunarayan,Land,Sell,No
+481,Lalitpur,400000,0,5,5,3,North,2001,9 Aana,1 Meter , Gravelled,Kupondole,House,Rent,Yes
+485,Kathmandu,23000000,5,5,3,1,West,2073,4 Aana,13 Feet , Gravelled,Sundarbasti,House,Sell,No
+487,Kathmandu,60000000,5,6,4,4,East,2076,5.5 Aana,13 Feet , Paved,Baluwatar,House,Sell,No
+492,Kathmandu,55000000,5,6,3,2,South,2073,7 Aana,14 Feet , Blacktopped,Samakhusi,House,Sell,No
+507,Kathmandu,60000,0,0,3,0,South East,,5 Aana,13 Feet , Blacktopped,Samakhusi,House,Rent,No
+508,Lalitpur,23500000,4,4,3,1,West,2016,3.75 Aana,13 Feet , Blacktopped,Imadol,House,Sell,Yes
+509,Kathmandu,60000,4,3,3,1,South East,2010,10 Aana,20 Feet , Blacktopped,Dhapasi,House,Rent,No
+512,Kathmandu,2650000,0,0,,0,East,,3.3 Aana,20 Feet , Gravelled,Chapali,Land,Sell,No
+513,Kathmandu,235000000,5,5,3,1,East,2076,3 Aana,13 Feet , Gravelled,Sano Bharyang,House,Sell,No
+514,Kathmandu,27600000,7,6,3,1,East,2076,4 Aana,13 Feet , Gravelled,Budhanilkantha,House,Sell,No
+520,Kathmandu,70000000,6,7,3,10,East,2068,22 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+521,Kathmandu,500000000,5,5,3,2,East,2075,4.5 Aana,15 Feet , Blacktopped,Chabahil,House,Sell,No
+522,Kathmandu,160000000,10,10,4,5,East,2076,21 Aana,20 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+523,Kathmandu,42500000,6,6,3,0,South East,,6 Aana,15 Feet , Blacktopped,Baluwatar,House,Sell,No
+524,Kathmandu,18000000,5,5,3,1,North,2076,3.1 Aana,13 Feet , Gravelled,Budhanilkantha,House,Sell,No
+525,Kathmandu,27500000,6,6,3,2,East,2076,4 Aana,14 Feet , Gravelled,Budhanilkantha,House,Sell,No
+527,Kathmandu,145000000,5,6,3,4,East,2076,20 Aana,18 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+531,Kathmandu,17500000,4,2,,0,North East,,5 Aana,20 Feet,,Ramkot,House,Sell,No
+532,Kathmandu,15500000,4,2,2,1,North East,,4 Aana,0 Feet,,Ramkot,House,Sell,No
+533,Kathmandu,15500000,4,2,,1,North East,,4 Aana,20 Feet,,Ramkot,House,Sell,No
+534,Kathmandu,3200000,0,0,,0,East,,10 Aana,13 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+537,Kathmandu,2300000,0,0,,0,East,,5.5 Aana,13 Feet,,Budhanilkantha,Land,Sell,No
+541,Kathmandu,42000000,7,6,3,3,East,2076,8.5 Aana,13 Feet , Gravelled,Budhanilkantha,House,Sell,No
+543,Kathmandu,2500000,0,0,,0,North East,,16 Aana,0 Feet,,Tokha,Land,Sell,No
+551,Kathmandu,100000,3,4,2,1,North,,4 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Rent,No
+556,Kathmandu,3000000,0,0,,0,South East,,5.2 Aana,15 Feet , Blacktopped,Boudha,Land,Sell,No
+557,Kathmandu,150000,0,0,5,2,South West,,3 Aana,0 Feet,,Boudha,House,Rent,No
+561,Kathmandu,130000,12,0,3,3,North East,,6 Aana,16 Feet , Blacktopped,Maharajgunj,Office Space,Rent,No
+562,Kathmandu,150000,8,3,3,2,North East,,4 Aana,16 Feet,,Lazimpat,House,Rent,No
+563,Kathmandu,2500000,0,0,,0,North East,,4 Aana,15 Feet , Gravelled,Budhanilkantha,Land,Sell,No
+568,Kathmandu,80000,13,0,4,0,East,,4 Aana,13 Feet,,Gongabu,House,Rent,No
+570,Kathmandu,2600000,0,0,,0,East,,4 Aana,22 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+571,Kathmandu,150000,4,4,3,2,North East,,7 Aana,13 Feet,,Lazimpat,House,Rent,Yes
+572,Kathmandu,17000000,8,3,10,2,North,,3.5 Aana,10 Feet , Soil Stabilized,Kapan,House,Sell,No
+574,Kathmandu,3200000,0,0,,0,East,,7 Aana,13 Feet,,Budhanilkantha,Land,Sell,No
+575,Kathmandu,17000000,4,5,3,1,West,2076,3 Aana,16 Feet , Gravelled,Kapan,House,Sell,No
+577,Kathmandu,32500000,8,6,3,1,South East,2076,4 Aana,20 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+578,Kathmandu,29800000,5,5,3,2,East,2076,4 Aana,15 Feet , Paved,Budhanilkantha,House,Sell,No
+581,Kathmandu,29900000,7,6,3,2,South West,2019,5 Aana,20 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+584,Kathmandu,21000000,6,6,3,1,East,2074,3 Aana,13 Feet , Paved,Tokha,House,Sell,No
+585,Kathmandu,100000000,6,6,3,5,East,2069,19 Aana,13 Feet , Blacktopped,Golfutar,House,Sell,Yes
+587,Kathmandu,3500000,0,0,,0,East,,19 Aana,15 Feet , Blacktopped,Hattigauda,Land,Sell,No
+588,Kathmandu,33500000,6,6,3,1,South East,2076,4 Aana,14 Feet , Blacktopped,Tokha,House,Sell,No
+589,Kathmandu,28500000,5,5,3,1,North,2076,4 Aana,15 Feet , Gravelled,Hattigauda,House,Sell,No
+591,Kathmandu,35000000,5,5,3,2,East,2069,5 Aana,20 Feet , Blacktopped,Naya Bazar,House,Sell,No
+592,Kathmandu,49000000,5,5,3,2,West,2076,8.5 Aana,13 Feet , Gravelled,Budhanilkantha,House,Sell,Yes
+595,Kathmandu,29000000,6,6,3,1,East,2074,4 Aana,13 Feet , Blacktopped,Tokha,House,Sell,No
+596,Kathmandu,44500000,5,5,3,1,South,2076,5 Aana,16 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+597,Kathmandu,5500000,0,0,,0,South,,5 Aana,15 Feet , Blacktopped,Maharajgunj,Land,Sell,No
+598,Kathmandu,3700000,0,0,,0,East,,8 Aana,16 Feet , Blacktopped,Golfutar,Land,Sell,No
+600,Kathmandu,5700000,0,0,,0,East,,16 Aana,12 Feet , Blacktopped,Baluwatar,Land,Sell,No
+612,Lalitpur,1200000,0,0,,0,South East,,3.3 Aana,20 Feet , Soil Stabilized,Dhapakhel,Land,Sell,No
+617,Kathmandu,15000,2,1,,1,North,2019,3 Aana,13 Feet , Gravelled,Balaju,House,Rent,No
+618,Lalitpur,150000,5,3,3,1,East,2012,10 Aana,17 Meter , Blacktopped,Hattiban,House,Rent,Yes
+655,Kathmandu,18200000,5,5,3,1,East,2076,3.2 Aana,13 Feet , Blacktopped,Kapan,House,Sell,No
+657,Kathmandu,26000000,6,5,3,1,East,2076,4 Aana,14 Feet , Blacktopped,Kapan,House,Sell,No
+659,Kathmandu,2300000,0,0,,0,East,,5.1 Aana,12 Feet , Soil Stabilized,Sitapaila,Land,Sell,No
+661,Kathmandu,33500000,5,5,3,2,North West,2076,5.5 Aana,13 Feet , Gravelled,Hattigauda,House,Sell,No
+665,Kathmandu,29000000,5,5,3,2,South,2075,5 Aana,14 Feet , Gravelled,Budhanilkantha,House,Sell,Yes
+666,Kathmandu,2600000,0,0,,0,North East,,4 Aana,15 Feet,,Tokha,Land,Sell,No
+667,Kathmandu,36000000,5,5,3,1,East,2070,6 Aana,13 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+668,Kathmandu,47500000,4,5,3,3,East,2070,9 Aana,15 Feet , Soil Stabilized,Golfutar,House,Sell,Yes
+673,Kathmandu,23000000,6,5,3,1,North West,2076,3.5 Aana,13 Feet , Gravelled,Samakhusi,House,Sell,No
+675,Kathmandu,24500000,6,5,3,1,North East,2076,4 Aana,22 Feet , Gravelled,Hattigauda,House,Sell,No
+676,Kathmandu,23800000,6,6,3,1,East,2076,4 Aana,18 Feet , Blacktopped,Bhangal,House,Sell,No
+678,Kathmandu,31000000,5,5,3,1,South West,2076,4.5 Aana,14 Feet , Paved,Budhanilkantha,House,Sell,No
+679,Kathmandu,29000000,6,5,3,1,South,2076,4 Aana,13 Feet , Gravelled,Tokha,House,Sell,No
+681,Kathmandu,56000000,5,5,3,2,South,2071,8 Aana,15 Feet , Blacktopped,Maharajgunj,House,Sell,No
+682,Kathmandu,67500000,5,5,3,3,South East,2070,9 Aana,20 Feet , Blacktopped,Maharajgunj,House,Sell,Yes
+683,Kathmandu,4000000,0,0,,0,East,,11 Aana,13 Feet , Blacktopped,Hattigauda,Land,Sell,No
+684,Kathmandu,3500000,0,0,,0,East,,6 Aana,15 Feet , Soil Stabilized,Budhanilkantha,Land,Sell,No
+685,Kathmandu,37500000,6,6,3,1,East,2076,3.75 Aana,13 Feet , Blacktopped,Samakhusi,House,Sell,No
+686,Kathmandu,350000,6,6,3,4,East,2076,22 Aana,16 Feet , Gravelled,Golfutar,House,Rent,Yes
+687,Kathmandu,4200000,0,0,,0,East,,8 Aana,13 Feet , Blacktopped,Budhanilkantha,Land,Sell,No
+688,Kathmandu,35000000,6,5,3,1,East,2076,4.75 Aana,13 Feet , Blacktopped,Samakhusi,House,Sell,No
+698,Kathmandu,25000,2,1,,1,East,,5 Aana,0 Feet,,Budhanilkantha,Flat,Rent,No
+700,Lalitpur,19000000,4,3,,1,North,2076,3.5 Aana,0 Feet,,Imadol,House,Sell,No
+711,Kathmandu,34000000,5,4,,1,South,,6 Aana,14 Feet,,Pepsicola,House,Sell,No
+712,Kathmandu,26300000,5,0,,1,East,,4 Aana,13 Feet,,Tokha,House,Sell,No
+720,Kathmandu,16000000,4,3,,1,East,2076,3 Aana,12 Feet , Paved,Tokha,House,Sell,No
+727,Lalitpur,19700000,4,4,3,2,South,2076,3.5 Aana,13 Feet,,Imadol,House,Sell,No
+728,Kathmandu,29000000,6,5,3,1,East,2076,4 Aana,20 Feet , Gravelled,Tokha,House,Sell,No
+730,Kathmandu,45000000,6,6,3,3,East,2075,8.5 Aana,13 Feet , Gravelled,Hattigauda,House,Sell,No
+731,Kathmandu,36000000,4,5,3,3,West,2075,7 Aana,30 Feet , Soil Stabilized,Golfutar,House,Sell,Yes
+732,Kathmandu,35500000,5,5,3,2,North West,2075,5.5 Aana,13 Feet , Gravelled,Hattigauda,House,Sell,Yes
+736,Bhaktapur,15500000,4,2,,1,East,2073,3 Aana,13 Feet , Gravelled,Balkot,House,Sell,No
+737,Kathmandu,40000000,5,5,3,3,East,2076,7.5 Aana,20 Feet , Paved,Budhanilkantha,House,Sell,No
+740,Lalitpur,18000000,5,3,3,1,West,2019,3.1 Aana,13 Feet , Blacktopped,Imadol,House,Sell,Yes
+748,Kathmandu,25500000,5,6,3,1,East,2076,3.5 Aana,13 Feet , Blacktopped,Dhapasi,House,Sell,No
+750,Kathmandu,68000000,5,5,3,4,East,2076,12 Aana,15 Feet , Blacktopped,Chapali,House,Sell,Yes
+751,Kathmandu,21500000,6,5,3,1,North East,2076,3.5 Aana,20 Feet , Gravelled,Sundarbasti,House,Sell,No
+753,Kathmandu,80000000,4,4,3,4,East,2072,21 Aana,14 Feet , Blacktopped,Pasikot,House,Sell,Yes
+754,Kathmandu,19900000,6,5,3,1,South West,2076,3.1 Aana,12 Feet , Paved,Sundarbasti,House,Sell,No
+755,Kathmandu,72000000,5,5,3,0,South West,2070,17 Aana,15 Feet , Blacktopped,Dhapasi,House,Sell,No
+756,Kathmandu,60000000,5,5,3,0,North East,2076,6 Aana,13 Feet , Blacktopped,Baluwatar,House,Sell,Yes
+757,Kathmandu,57500000,6,5,3,6,North West,2075,12 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+758,Kathmandu,66000000,5,5,3,4,South East,2071,14 Aana,20 Feet , Blacktopped,Dhapasi,House,Sell,Yes
+761,Kathmandu,33500000,4,4,3,1,North East,2072,5 Aana,20 Feet , Blacktopped,Dhapasi,House,Sell,No
+768,Kathmandu,65000000,5,5,,3,South,2076,8 Aana,20 Feet , Blacktopped,Dhapasi,House,Sell,Yes
+770,Kathmandu,45000000,4,5,3,3,South East,2075,7 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+771,Kathmandu,3500000,0,0,,0,South West,,4.5 Aana,13 Feet , Gravelled,Hattigauda,Land,Sell,No
+775,Lalitpur,35000,4,3,2,1,East,2019,4 Aana,5 Meter , Paved,Godawari,House,Rent,No
+783,Kathmandu,20500000,4,4,,1,South,2074,4 Aana,15 Feet , Gravelled,Sitapaila,House,Sell,No
+787,Kathmandu,18000000,4,4,3,1,North,2075,3.1 Aana,13 Feet , Gravelled,Sitapaila,House,Sell,No
+788,Kathmandu,72000000,5,5,3,4,East,2075,13 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+789,Kathmandu,23000000,6,5,3,1,East,2075,4 Aana,13 Feet , Blacktopped,Tokha,House,Sell,No
+791,Kathmandu,40000000,7,8,4,2,East,2075,4 Aana,14 Feet , Paved,Samakhusi,House,Sell,No
+792,Kathmandu,21500000,5,5,3,1,South,2076,3.5 Aana,13 Feet , Gravelled,Sundarbasti,House,Sell,No
+793,Kathmandu,34500000,6,3,2,2,North East,2000,4 Aana,0 Feet,,Baneshwor,House,Sell,No
+794,Kathmandu,70000000,4,4,2,4,West,2064,16 Aana,14 Feet , Blacktopped,Dhapasi,House,Sell,Yes
+796,Kathmandu,65000000,5,5,3,4,South,2069,15 Aana,14 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+798,Kathmandu,5800000,0,2,2,2,North,2060,10 Aana,18 Feet , Paved,Chabahil,House,Sell,Yes
+804,Kathmandu,20000000,0,0,0,2,East,2076,3 Aana,14 Feet , Gravelled,Gongabu,House,Sell,No
+813,Kathmandu,22000000,10,0,3,0,North,,5 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+815,Kathmandu,26000000,0,0,3,1,East,2076,4 Aana,12 Feet , Gravelled,Tokha,House,Sell,Yes
+816,Kathmandu,26500000,0,0,3,1,South East,,4 Aana,14 Feet , Blacktopped,Baniyatar,House,Sell,Yes
+818,Kathmandu,60000000,0,0,4,0,South,,5.1 Aana,0 Feet,,Balkhu,House,Sell,No
+821,Kathmandu,1200000,0,0,,0,North,,8 Aana,20 Feet , Gravelled,Ramkot,Land,Sell,No
+823,Kathmandu,900000,0,0,,0,South,,3 Aana,10 Feet , Paved,Balaju,Land,Sell,No
+829,Lalitpur,3700000,0,0,,0,South West,,5 Aana,40 Feet , Gravelled,Imadol,Land,Sell,No
+832,Lalitpur,6500000,2,1,2,0,West,,3 Aana,5 Feet , Gravelled,Imadol,House,Sell,No
+834,Kathmandu,18000000,6,4,3,2,East,2019,3 Aana,13 Feet , Gravelled,Golfutar,House,Sell,No
+838,Kathmandu,35000000,4,4,4,1,East,2019,4 Aana,22 Feet , Blacktopped,Mulpani,House,Sell,Yes
+841,Kathmandu,13500000,4,3,3,1,South East,2019,2.5 Aana,13 Feet , Gravelled,Pepsicola,House,Sell,No
+853,Bhaktapur,85000,0,0,3,0,East,2019,12 Aana,12 Feet , Soil Stabilized,Balkot,House,Rent,No
+859,Kathmandu,1900000,0,0,,0,West,,5 Aana,12 Feet , Soil Stabilized,Kirtipur,Land,Sell,No
+861,Kathmandu,45000000,0,0,,0,South,,8 Aana,15 Feet , Soil Stabilized,Budhanilkantha,House,Sell,No
+862,Kathmandu,49500000,0,0,,0,South,,9 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+867,Lalitpur,16000000,16,4,4,1,East,2063,4 Aana,10 Feet , Concrete,Imadol,House,Sell,No
+878,Kathmandu,65000000,5,5,3,3,South East,2075,15 Aana,13 Feet , Soil Stabilized,Budhanilkantha,House,Sell,Yes
+879,Kathmandu,56000000,6,6,3,3,East,2074,10 Aana,20 Feet , Soil Stabilized,Golfutar,House,Sell,No
+880,Kathmandu,44500000,6,5,3,3,South East,2076,8.1 Aana,15 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+881,Kathmandu,85000000,5,5,,3,East,,17 Aana,13 Feet , Soil Stabilized,Hattigauda,House,Sell,Yes
+897,Kathmandu,25000000,7,5,4,1,North,2019,3 Aana,13 Feet , Gravelled,Balaju,House,Sell,Yes
+904,Kathmandu,7000000,0,0,,0,North,,4 Aana,20 Feet , Blacktopped,Gongabu,Land,Sell,No
+911,Kathmandu,21500000,5,5,3,1,East,2076,3.5 Aana,13 Feet , Gravelled,Sundarbasti,House,Sell,No
+912,Kathmandu,3900000,0,0,,0,East,,8 Aana,15 Feet , Blacktopped,Tokha,Land,Sell,No
+913,Kathmandu,6700000,0,0,,0,West,,4 Aana,33 Feet,,Golfutar,Land,Sell,No
+914,Kathmandu,25500000,7,5,3,1,East,2076,5 Aana,20 Feet , Gravelled,Budhanilkantha,House,Sell,No
+918,Bhaktapur,10500000,0,0,,0,South,,4 Aana,10 Feet , Blacktopped,Changunarayan,House,Sell,No
+928,Kathmandu,22000000,3,4,3,1,East,2018,3 Aana,14 Feet,,Sitapaila,House,Sell,No
+936,Kathmandu,47000000,18,6,,6,South,,6 Aana,13 Feet , Blacktopped,Sukedhara,House,Sell,No
+952,Kathmandu,22000000,6,5,3,1,East,2016,5 Aana,14 Feet , Gravelled,Kapan,House,Sell,No
+954,Kathmandu,550000,24,0,4,15,East,2076,48 Aana,22 Feet , Blacktopped,Budhanilkantha,House,Rent,Yes
+955,Kathmandu,30000000,10,8,4,2,South,2068,4 Aana,30 Feet , Blacktopped,Budhanilkantha,House,Sell,No
+968,Kathmandu,20000000,0,0,,0,South,,4 Aana,15 Feet,,Jorpati,House,Sell,No
+972,Lalitpur,1100000,0,0,,0,South,,5 Aana,20 Feet , Gravelled,Godawari,Land,Sell,No
+978,Bhaktapur,1200000,0,0,0,0,South West,,39 Aana,20 Feet , Soil Stabilized,Suryabinayak,Land,Sell,No
+980,Kathmandu,44000000,5,6,3,1,East,2076,4 Aana,15 Feet , Blacktopped,Samakhusi,House,Sell,No
+981,Kathmandu,100000000,6,6,3,10,North West,2071,20 Aana,20 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+982,Kathmandu,96000000,5,7,3,0,South East,2074,18 Aana,20 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+983,Kathmandu,28500000,6,6,3,2,East,2076,4.5 Aana,20 Feet , Blacktopped,Bhangal,House,Sell,No
+990,Kathmandu,65000000,5,6,3,3,East,2076,6.5 Aana,15 Feet , Blacktopped,Maharajgunj,House,Sell,Yes
+991,Lalitpur,95000,4,2,4,4,South East,,8 Aana,0 Feet , Paved,Kupondole,Office Space,Rent,No
+1008,Kathmandu,18000000,0,0,,0,South,,3 Aana,16 Feet , Blacktopped,Hattigauda,House,Sell,No
+1011,Kathmandu,35000000,0,0,,0,North,,7 Aana,15 Feet , Gravelled,Hattigauda,House,Sell,No
+1014,Kathmandu,15000,0,0,3,0,North West,2018,8 Aana,24 Feet , Blacktopped,Budhanilkantha,Business,Rent,No
+1017,Kathmandu,35000,0,2,,1,North,,3 Aana,0 Feet,,Lazimpat,Office Space,Rent,No
+1018,Kathmandu,5500000,0,0,,0,East,,4.5 Aana,16 Feet , Blacktopped,Pepsicola,Land,Sell,No
+1024,Kathmandu,22000,2,2,,1,South West,,6 Aana,13 Feet , Blacktopped,Balkhu,Flat,Rent,No
+1025,Kathmandu,22500000,9,4,3,3,South,,3 Aana,13 Feet , Blacktopped,Samakhusi,House,Sell,No
+1026,Kathmandu,27500000,6,3,3,3,West,,4 Aana,13 Feet , Blacktopped,Samakhusi,House,Sell,No
+1027,Lalitpur,23800000,6,3,3,1,South East,2016,4 Aana,13 Feet , Gravelled,Imadol,House,Sell,No
+1037,Kathmandu,3500000,0,0,,0,North,,5 Aana,14 Feet , Gravelled,Kalanki,Land,Sell,No
+1043,Lalitpur,1000000,0,0,,0,North,,5 Aana,17 Feet , Gravelled,Lubhu,Land,Sell,No
+1057,Bhaktapur,1800000,0,0,,0,North,,30 Aana,20 Feet , Blacktopped,Duwakot,Land,Sell,No
+1061,Kathmandu,25500000,6,4,3,2,East,,4.5 Aana,13 Feet , Blacktopped,Budhanilkantha,House,Sell,Yes
+1062,Kathmandu,15000000,0,0,,0,East,2073,3 Aana,10 Feet , Blacktopped,Kapan,House,Sell,No
+1073,Kathmandu,5400000,0,0,,0,South,,4 Aana,6 Meter , Blacktopped,Boudha,Land,Sell,No
+1077,Lalitpur,49500000,0,0,,0,East,,9 Aana,16 Feet , Blacktopped,Hattiban,House,Sell,No
+1090,Lalitpur,10000000,2,2,1,1,North East,,3 Aana,13 Feet , Blacktopped,Imadol,House,Sell,No

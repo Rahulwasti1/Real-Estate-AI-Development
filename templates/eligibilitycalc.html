@@ -89,17 +89,17 @@
                 return;
             }
 
-            // Calculate eligible loan amount
-            let netIncome = monthlyIncome - ongoingEMI; // Deduct ongoing EMIs from monthly income
-            let loanEligibilityFactor = 60; // Example factor, typically banks use between 50-60 times monthly net income
-            let eligibleLoanAmount = netIncome * loanEligibilityFactor; // Calculate max loan eligibility
+            // Calculating eligible loan amount
+            let netIncome = monthlyIncome - ongoingEMI; // Deducting ongoing EMIs from monthly income
+            let loanEligibilityFactor = 60; 
+            let eligibleLoanAmount = netIncome * loanEligibilityFactor; // Calculating max loan eligibility
 
-            // Calculate monthly EMI for eligible loan amount
+            // Calculating monthly EMI for eligible loan amount
             let r = interestRate / (12 * 100); // Monthly interest rate
             let n = loanTenure * 12; // Total months
             let monthlyEMI = (eligibleLoanAmount * r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
 
-            // Update the result section
+            // Updating the result section
             document.getElementById("eligibleAmount").innerText = `Rs ${(eligibleLoanAmount / 100000).toFixed(2)}`;
             document.getElementById("monthlyEMI").innerText = `Monthly EMI Rs ${Math.round(monthlyEMI)}`;
         }
